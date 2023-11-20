@@ -1,0 +1,454 @@
+Tour,Artist,Date,City,State,Attendance (Avg.),Revenue (Avg.)
+÷ Tour,Ed Sheeran,29 June 2017,Kansas City,Missouri,13382,1217313
+÷ Tour,Ed Sheeran,30 June 2017,Des Moines,Iowa,13375,1078939
+÷ Tour,Ed Sheeran,1 July 2017,Saint Paul,Minnesota,14938,1375063
+÷ Tour,Ed Sheeran,9 July 2017,Buffalo,New York,14305,1167095
+÷ Tour,Ed Sheeran,11 July 2017,Philadelphia,Pennsylvania,14461,1315130
+÷ Tour,Ed Sheeran,12 July 2017,Philadelphia,Pennsylvania,14461,1315130
+÷ Tour,Ed Sheeran,14 July 2017,Uncasville,Connecticut,7443,539582
+÷ Tour,Ed Sheeran,15 July 2017,Uncasville,Connecticut,7443,539582
+÷ Tour,Ed Sheeran,29 July 2017,Tacoma,Washington,19538,1575039
+÷ Tour,Ed Sheeran,30 July 2017,Portland,Oregon,13420,1074959
+÷ Tour,Ed Sheeran,1 August 2017,Sacramento,California,13424,1220937
+÷ Tour,Ed Sheeran,2 August 2017,Oakland,California,13662,1219722
+÷ Tour,Ed Sheeran,4 August 2017,Las Vegas,Nevada,15243,1326231
+÷ Tour,Ed Sheeran,5 August 2017,Glendale,Arizona,13654,1239478
+÷ Tour,Ed Sheeran,6 August 2017,San Diego,California,10233,917154
+÷ Tour,Ed Sheeran,10 August 2017,Los Angeles,California,13577,1207401
+÷ Tour,Ed Sheeran,11 August 2017,Los Angeles,California,13577,1207401
+÷ Tour,Ed Sheeran,12 August 2017,Los Angeles,California,13577,1207401
+÷ Tour,Ed Sheeran,15 August 2017,Denver,Colorado,12917,1159523
+÷ Tour,Ed Sheeran,17 August 2017,Tulsa,Oklahoma,12069,961178
+÷ Tour,Ed Sheeran,18 August 2017,Dallas,Texas,13632,1207645
+÷ Tour,Ed Sheeran,19 August 2017,Houston,Texas,11811,1067592
+÷ Tour,Ed Sheeran,22 August 2017,San Antonio,Texas,13928,1112573
+÷ Tour,Ed Sheeran,25 August 2017,Duluth,Georgia,10528,985058
+÷ Tour,Ed Sheeran,26 August 2017,Duluth,Georgia,10528,985058
+÷ Tour,Ed Sheeran,29 August 2017,Tampa,Florida,13459,1076537
+÷ Tour,Ed Sheeran,30 August 2017,Miami,Florida,12813,1144534
+÷ Tour,Ed Sheeran,31 August 2017,Orlando,Florida,12360,1007408
+÷ Tour,Ed Sheeran,2 September 2017,Raleigh,North Carolina,13805,1134012
+÷ Tour,Ed Sheeran,3 September 2017,Charlotte,North Carolina,13927,1243772
+÷ Tour,Ed Sheeran,5 September 2017,North Charleston,South Carolina,8271,673758
+÷ Tour,Ed Sheeran,7 September 2017,Louisville,Kentucky,15721,1257529
+÷ Tour,Ed Sheeran,8 September 2017,Indianapolis,Indiana,12740,1014966
+÷ Tour,Ed Sheeran,9 September 2017,Cleveland,Ohio,14912,1365524
+÷ Tour,Ed Sheeran,12 September 2017,Omaha,Nebraska,13990,1098225
+÷ Tour,Ed Sheeran,15 September 2017,Rosemont,Illinois,13173,1173940
+÷ Tour,Ed Sheeran,16 September 2017,Rosemont,Illinois,13173,1173940
+÷ Tour,Ed Sheeran,19 September 2017,"Washington, D.C.",District of Columbia,13748,1228166
+÷ Tour,Ed Sheeran,20 September 2017,"Washington, D.C.",District of Columbia,13748,1228166
+÷ Tour,Ed Sheeran,22 September 2017,Boston,Massachusetts,12795,1147608
+÷ Tour,Ed Sheeran,23 September 2017,Boston,Massachusetts,12795,1147608
+÷ Tour,Ed Sheeran,26 September 2017,Pittsburgh,Pennsylvania,13331,1190945
+÷ Tour,Ed Sheeran,27 September 2017,Detroit,Michigan,14124,1268652
+÷ Tour,Ed Sheeran,29 September 2017,Brooklyn,New York,13688,1219493
+÷ Tour,Ed Sheeran,30 September 2017,Brooklyn,New York,13688,1219493
+÷ Tour,Ed Sheeran,1 October 2017,Brooklyn,New York,13688,1219493
+÷ Tour,Ed Sheeran,3 October 2017,Columbus,Ohio,13627,1099609
+÷ Tour,Ed Sheeran,4 October 2017,Columbus,Ohio,13627,1099609
+÷ Tour,Ed Sheeran,6 October 2017,Nashville,Tennessee,13860,1251904
+÷ Tour,Ed Sheeran,7 October 2017,Nashville,Tennessee,13860,1251904
+÷ Tour,Ed Sheeran,18 August 2018,Pasadena,California,62321,6315595
+÷ Tour,Ed Sheeran,21 August 2018,San Francisco,California,38647,4199073
+÷ Tour,Ed Sheeran,25 August 2018,Seattle,Washington,55891,4932401
+÷ Tour,Ed Sheeran,6 September 2018,St. Louis,Missouri,41522,3726270
+÷ Tour,Ed Sheeran,8 September 2018,Detroit,Michigan,47804,4481289
+÷ Tour,Ed Sheeran,14 September 2018,Foxborough,Massachusetts,55119,4916274
+÷ Tour,Ed Sheeran,15 September 2018,Foxborough,Massachusetts,55119,4916274
+÷ Tour,Ed Sheeran,21 September 2018,East Rutherford,New Jersey,53750,5610103
+÷ Tour,Ed Sheeran,22 September 2018,East Rutherford,New Jersey,53750,5610103
+÷ Tour,Ed Sheeran,27 September 2018,Philadelphia,Pennsylvania,54292,5161682
+÷ Tour,Ed Sheeran,29 September 2018,Pittsburgh,Pennsylvania,41014,4169873
+÷ Tour,Ed Sheeran,4 October 2018,Chicago,Illinois,47263,4339349
+÷ Tour,Ed Sheeran,6 October 2018,Nashville,Tennessee,45888,3954931
+÷ Tour,Ed Sheeran,13 October 2018,Kansas City,Missouri,51324,4008747
+÷ Tour,Ed Sheeran,17 October 2018,Fargo,North Dakota,17761,1766790
+÷ Tour,Ed Sheeran,20 October 2018,Minneapolis,Minnesota,49359,4512421
+÷ Tour,Ed Sheeran,24 October 2018,Milwaukee,Wisconsin,37288,3390498
+÷ Tour,Ed Sheeran,27 October 2018,Arlington,Texas,46249,4528560
+÷ Tour,Ed Sheeran,31 October 2018,New Orleans,Louisiana,42295,2827815
+÷ Tour,Ed Sheeran,3 November 2018,Houston,Texas,39354,3985595
+÷ Tour,Ed Sheeran,7 November 2018,Tampa,Florida,51120,4197412
+÷ Tour,Ed Sheeran,9 November 2018,Atlanta,Georgia,50906,5021395
+Not in This Lifetime... Tour,Guns N' Roses,23 June 2016,Detroit,Michigan,44439,4776767
+Not in This Lifetime... Tour,Guns N' Roses,26 June 2016,Landover,Maryland,41208,4107027
+Not in This Lifetime... Tour,Guns N' Roses,29 June 2016,Kansas City,Missouri,40387,3285043
+Not in This Lifetime... Tour,Guns N' Roses,1 July 2016,Chicago,Illinois,41086,4421842
+Not in This Lifetime... Tour,Guns N' Roses,3 July 2016,Chicago,Illinois,41086,4421842
+Not in This Lifetime... Tour,Guns N' Roses,6 July 2016,Cincinnati,Ohio,32516,2857336
+Not in This Lifetime... Tour,Guns N' Roses,9 July 2016,Nashville,Tennessee,42824,4765878
+Not in This Lifetime... Tour,Guns N' Roses,12 July 2016,Pittsburgh,Pennsylvania,39109,3810026
+Not in This Lifetime... Tour,Guns N' Roses,14 July 2016,Philadelphia,Pennsylvania,49328,4883474
+Not in This Lifetime... Tour,Guns N' Roses,19 July 2016,Foxborough,Massachusetts,32736,4151287
+Not in This Lifetime... Tour,Guns N' Roses,20 July 2016,Foxborough,Massachusetts,32736,4151287
+Not in This Lifetime... Tour,Guns N' Roses,23 July 2016,East Rutherford,New Jersey,50088,5843695
+Not in This Lifetime... Tour,Guns N' Roses,24 July 2016,East Rutherford,New Jersey,50088,5843695
+Not in This Lifetime... Tour,Guns N' Roses,27 July 2016,Atlanta,Georgia,41508,4544620
+Not in This Lifetime... Tour,Guns N' Roses,29 July 2016,Orlando,Florida,40702,5852060
+Not in This Lifetime... Tour,Guns N' Roses,31 July 2016,New Orleans,Louisiana,32894,3447362
+Not in This Lifetime... Tour,Guns N' Roses,3 August 2016,Arlington,Texas,39015,4786948
+Not in This Lifetime... Tour,Guns N' Roses,5 August 2016,Houston,Texas,49778,6166657
+Not in This Lifetime... Tour,Guns N' Roses,9 August 2016,San Francisco,California,38173,5597843
+Not in This Lifetime... Tour,Guns N' Roses,12 August 2016,Seattle,Washington,42697,5237966
+Not in This Lifetime... Tour,Guns N' Roses,15 August 2016,Glendale,Arizona,44110,4257189
+Not in This Lifetime... Tour,Guns N' Roses,18 August 2016,Los Angeles,California,42317,4458879
+Not in This Lifetime... Tour,Guns N' Roses,19 August 2016,Los Angeles,California,42317,4458879
+Not in This Lifetime... Tour,Guns N' Roses,22 August 2016,San Diego,California,49458,5337634
+Not in This Lifetime... Tour,Guns N' Roses,20 July 2017,New York City,New York,0,0
+Not in This Lifetime... Tour,Guns N' Roses,27 July 2017,St. Louis,Missouri,36382,3533972
+Not in This Lifetime... Tour,Guns N' Roses,30 July 2017,Minneapolis,Minnesota,48740,5567052
+Not in This Lifetime... Tour,Guns N' Roses,2 August 2017,Denver,Colorado,41445,3846068
+Not in This Lifetime... Tour,Guns N' Roses,5 August 2017,Little Rock,Arkansas,26400,1896770
+Not in This Lifetime... Tour,Guns N' Roses,8 August 2017,Miami,Florida,37834,4102883
+Not in This Lifetime... Tour,Guns N' Roses,11 August 2017,Winston-Salem,North Carolina,32847,3447947
+Not in This Lifetime... Tour,Guns N' Roses,13 August 2017,Hershey,Pennsylvania,31087,3500876
+Not in This Lifetime... Tour,Guns N' Roses,16 August 2017,Orchard Park,New York,32245,2626070
+Not in This Lifetime... Tour,Guns N' Roses,3 September 2017,George,Washington,15781,1653890
+Not in This Lifetime... Tour,Guns N' Roses,6 September 2017,El Paso,Texas,39780,3087980
+Not in This Lifetime... Tour,Guns N' Roses,8 September 2017,San Antonio,Texas,38490,3859017
+Not in This Lifetime... Tour,Guns N' Roses,8 October 2017,Philadelphia,Pennsylvania,0,0
+Not in This Lifetime... Tour,Guns N' Roses,11 October 2017,New York City,New York,41818,6160000
+Not in This Lifetime... Tour,Guns N' Roses,12 October 2017,Newark,New Jersey,0,0
+Not in This Lifetime... Tour,Guns N' Roses,15 October 2017,New York City,New York,0,0
+Not in This Lifetime... Tour,Guns N' Roses,16 October 2017,New York City,New York,0,0
+Not in This Lifetime... Tour,Guns N' Roses,19 October 2017,"Washington, D.C.",District of Columbia,0,0
+Not in This Lifetime... Tour,Guns N' Roses,22 October 2017,Boston,Massachusetts,0,0
+Not in This Lifetime... Tour,Guns N' Roses,23 October 2017,Hartford,Connecticut,0,0
+Not in This Lifetime... Tour,Guns N' Roses,26 October 2017,Cleveland,Ohio,0,0
+Not in This Lifetime... Tour,Guns N' Roses,2 November 2017,Detroit,Michigan,0,0
+Not in This Lifetime... Tour,Guns N' Roses,3 November 2017,Louisville,Kentucky,0,0
+Not in This Lifetime... Tour,Guns N' Roses,6 November 2017,Chicago,Illinois,0,0
+Not in This Lifetime... Tour,Guns N' Roses,7 November 2017,Milwaukee,Wisconsin,9723,1403070
+Not in This Lifetime... Tour,Guns N' Roses,10 November 2017,Houston,Texas,10523,1652912
+Not in This Lifetime... Tour,Guns N' Roses,13 November 2017,Nashville,Tennessee,10592,1523956
+Not in This Lifetime... Tour,Guns N' Roses,14 November 2017,Tulsa,Oklahoma,10237,1349098
+Not in This Lifetime... Tour,Guns N' Roses,17 November 2017,Las Vegas,Nevada,14250,2104371
+Not in This Lifetime... Tour,Guns N' Roses,18 November 2017,Sacramento,California,12508,1691893
+Not in This Lifetime... Tour,Guns N' Roses,21 November 2017,Oakland,California,13520,1866854
+Not in This Lifetime... Tour,Guns N' Roses,24 November 2017,Los Angeles,California,11860,1806668
+Not in This Lifetime... Tour,Guns N' Roses,25 November 2017,Inglewood,California,27012,3400000
+Not in This Lifetime... Tour,Guns N' Roses,28 November 2017,San Diego,California,6886,1159655
+Not in This Lifetime... Tour,Guns N' Roses,29 November 2017,Inglewood,California,0,0
+Not in This Lifetime... Tour,Guns N' Roses,8 December 2018,Honolulu,Hawaii,22485,2113556
+Not in This Lifetime... Tour,Guns N' Roses,21 September 2019,Los Angeles,California,0,0
+Not in This Lifetime... Tour,Guns N' Roses,25 September 2019,Charlotte,North Carolina,13604,1999538
+Not in This Lifetime... Tour,Guns N' Roses,28 September 2019,Louisville,Kentucky,0,0
+Not in This Lifetime... Tour,Guns N' Roses,1 October 2019,Jacksonville,Florida,10765,1645694
+Not in This Lifetime... Tour,Guns N' Roses,4 October 2019,Austin,Texas,0,0
+Not in This Lifetime... Tour,Guns N' Roses,7 October 2019,Wichita,Kansas,0,0
+Not in This Lifetime... Tour,Guns N' Roses,11 October 2019,Austin,Texas,0,0
+Not in This Lifetime... Tour,Guns N' Roses,13 October 2019,Manchester,Tennessee,0,0
+Not in This Lifetime... Tour,Guns N' Roses,15 October 2019,Lincoln,Nebraska,11263,1378675
+Not in This Lifetime... Tour,Guns N' Roses,23 October 2019,Oklahoma City,Oklahoma,10905,1447993
+Not in This Lifetime... Tour,Guns N' Roses,25 October 2019,New Orleans,Louisiana,0,0
+Not in This Lifetime... Tour,Guns N' Roses,29 October 2019,Salt Lake City,Utah,11084,1436175
+Not in This Lifetime... Tour,Guns N' Roses,1 November 2019,Las Vegas,Nevada,4164,1398472
+Not in This Lifetime... Tour,Guns N' Roses,2 November 2019,Las Vegas,Nevada,4164,1398472
+A Head Full of Dreams Tour,Coldplay,16 July 2016,East Rutherford,New Jersey,50381,5374697
+A Head Full of Dreams Tour,Coldplay,17 July 2016,East Rutherford,New Jersey,50381,5374697
+A Head Full of Dreams Tour,Coldplay,20 July 2016,Indianapolis,Indiana,12667,1460006
+A Head Full of Dreams Tour,Coldplay,21 July 2016,St. Louis,Missouri,13960,1547633
+A Head Full of Dreams Tour,Coldplay,23 July 2016,Chicago,Illinois,47661,5107786
+A Head Full of Dreams Tour,Coldplay,24 July 2016,Chicago,Illinois,47661,5107786
+A Head Full of Dreams Tour,Coldplay,27 July 2016,Louisville,Kentucky,13755,1520726
+A Head Full of Dreams Tour,Coldplay,28 July 2016,Columbus,Ohio,15530,1933346
+A Head Full of Dreams Tour,Coldplay,30 July 2016,Foxborough,Massachusetts,54952,6530260
+A Head Full of Dreams Tour,Coldplay,1 August 2016,Buffalo,New York,15100,1878324
+A Head Full of Dreams Tour,Coldplay,3 August 2016,Auburn Hills,Michigan,15436,1731667
+A Head Full of Dreams Tour,Coldplay,4 August 2016,Pittsburgh,Pennsylvania,14360,1614917
+A Head Full of Dreams Tour,Coldplay,6 August 2016,Philadelphia,Pennsylvania,54497,5530866
+A Head Full of Dreams Tour,Coldplay,20 August 2016,Pasadena,California,60031,5457449
+A Head Full of Dreams Tour,Coldplay,21 August 2016,Pasadena,California,60031,5457449
+A Head Full of Dreams Tour,Coldplay,23 August 2016,Glendale,Arizona,14427,1776867
+A Head Full of Dreams Tour,Coldplay,25 August 2016,Tulsa,Oklahoma,13234,1578961
+A Head Full of Dreams Tour,Coldplay,27 August 2016,Arlington,Texas,52538,5679031
+A Head Full of Dreams Tour,Coldplay,29 August 2016,Denver,Colorado,15664,1902639
+A Head Full of Dreams Tour,Coldplay,31 August 2016,Salt Lake City,Utah,15645,1871968
+A Head Full of Dreams Tour,Coldplay,1 September 2016,Paradise,Nevada,15898,2124032
+A Head Full of Dreams Tour,Coldplay,3 September 2016,Santa Clara,California,52404,5990660
+A Head Full of Dreams Tour,Coldplay,4 September 2016,Philadelphia,Pennsylvania,0,0
+A Head Full of Dreams Tour,Coldplay,1 August 2017,East Rutherford,New Jersey,54501,7861460
+A Head Full of Dreams Tour,Coldplay,4 August 2017,Foxborough,Massachusetts,52188,6263906
+A Head Full of Dreams Tour,Coldplay,6 August 2017,Landover,Maryland,48380,4823333
+A Head Full of Dreams Tour,Coldplay,12 August 2017,Minneapolis,Minnesota,47472,4325230
+A Head Full of Dreams Tour,Coldplay,14 August 2017,Omaha,Nebraska,13009,1434880
+A Head Full of Dreams Tour,Coldplay,15 August 2017,Kansas City,Missouri,12971,1736224
+A Head Full of Dreams Tour,Coldplay,17 August 2017,Chicago,Illinois,52726,6026402
+A Head Full of Dreams Tour,Coldplay,19 August 2017,Cleveland,Ohio,15963,2302868
+A Head Full of Dreams Tour,Coldplay,28 August 2017,Miami Gardens,Florida,47866,6446966
+A Head Full of Dreams Tour,Coldplay,22 September 2017,Paradise,Nevada,0,0
+A Head Full of Dreams Tour,Coldplay,23 September 2017,Seattle,Washington,49031,5181106
+A Head Full of Dreams Tour,Coldplay,2 October 2017,Portland,Oregon,14965,2121648
+A Head Full of Dreams Tour,Coldplay,4 October 2017,Santa Clara,California,48341,5265835
+A Head Full of Dreams Tour,Coldplay,6 October 2017,Pasadena,California,64442,6051529
+A Head Full of Dreams Tour,Coldplay,8 October 2017,San Diego,California,54279,5955986
+WorldWired Tour,Metallica,6 February 2016,San Francisco,California,41119,4341114
+WorldWired Tour,Metallica,20 August 2016,Minneapolis,Minnesota,48492,5158790
+WorldWired Tour,Metallica,24 September 2016,New York City,New York,,
+WorldWired Tour,Metallica,27 September 2016,New York City,New York,,
+WorldWired Tour,Metallica,22 October 2016,Mountain View,California,,
+WorldWired Tour,Metallica,23 October 2016,Mountain View,California,,
+WorldWired Tour,Metallica,12 February 2017,Los Angeles,California,,
+WorldWired Tour,Metallica,10 May 2017,Baltimore,Maryland,55705,5970421
+WorldWired Tour,Metallica,12 May 2017,Philadelphia,Pennsylvania,49722,5421187
+WorldWired Tour,Metallica,14 May 2017,East Rutherford,New Jersey,46941,5196437
+WorldWired Tour,Metallica,17 May 2017,Uniondale,New York,14941,2198951
+WorldWired Tour,Metallica,19 May 2017,Foxborough,Massachusetts,47778,6095723
+WorldWired Tour,Metallica,21 May 2017,Columbus,Ohio,29962,3960421
+WorldWired Tour,Metallica,4 June 2017,St. Louis,Missouri,38778,4192393
+WorldWired Tour,Metallica,7 June 2017,Denver,Colorado,57955,5884163
+WorldWired Tour,Metallica,9 June 2017,Newton,Iowa,,
+WorldWired Tour,Metallica,11 June 2017,Houston,Texas,46720,4854471
+WorldWired Tour,Metallica,14 June 2017,San Antonio,Texas,45343,4527655
+WorldWired Tour,Metallica,16 June 2017,Arlington,Texas,45860,4247778
+WorldWired Tour,Metallica,18 June 2017,Chicago,Illinois,51041,5313715
+WorldWired Tour,Metallica,5 July 2017,Orlando,Florida,49961,5613708
+WorldWired Tour,Metallica,7 July 2017,Miami Gardens,Florida,42168,4163523
+WorldWired Tour,Metallica,9 July 2017,Atlanta,Georgia,39024,4531443
+WorldWired Tour,Metallica,12 July 2017,Detroit,Michigan,40573,4501650
+WorldWired Tour,Metallica,29 July 2017,Pasadena,California,63285,6684282
+WorldWired Tour,Metallica,4 August 2017,Glendale,Arizona,52926,5246586
+WorldWired Tour,Metallica,6 August 2017,San Diego,California,43491,4846411
+WorldWired Tour,Metallica,9 August 2017,Seattle,Washington,47175,4944489
+WorldWired Tour,Metallica,12 August 2017,San Francisco,California,,
+WorldWired Tour,Metallica,2 September 2018,Madison,Wisconsin,16137,1995140
+WorldWired Tour,Metallica,4 September 2018,Minneapolis,Minnesota,17873,2407742
+WorldWired Tour,Metallica,6 September 2018,Lincoln,Nebraska,14950,1825630
+WorldWired Tour,Metallica,8 September 2018,Grand Forks,North Dakota,16970,1912505
+WorldWired Tour,Metallica,11 September 2018,Sioux Falls,South Dakota,12018,1494540
+WorldWired Tour,Metallica,6 October 2018,Austin,Texas,,
+WorldWired Tour,Metallica,13 October 2018,Austin,Texas,,
+WorldWired Tour,Metallica,16 October 2018,Milwaukee,Wisconsin,17091,2185835
+WorldWired Tour,Metallica,18 October 2018,Pittsburgh,Pennsylvania,18502,2359924
+WorldWired Tour,Metallica,20 October 2018,University Park,Pennsylvania,15588,1919035
+WorldWired Tour,Metallica,22 October 2018,Charlotte,North Carolina,17718,2085875
+WorldWired Tour,Metallica,25 October 2018,Philadelphia,Pennsylvania,18545,2163595
+WorldWired Tour,Metallica,27 October 2018,Buffalo,New York,18542,2290542
+WorldWired Tour,Metallica,29 October 2018,Albany,New York,15661,1936231
+WorldWired Tour,Metallica,26 November 2018,Las Vegas,Nevada,19032,2551915
+WorldWired Tour,Metallica,28 November 2018,Boise,Idaho,11868,1454270
+WorldWired Tour,Metallica,30 November 2018,Salt Lake City,Utah,16215,2026905
+WorldWired Tour,Metallica,2 December 2018,Spokane,Washington,12854,1597670
+WorldWired Tour,Metallica,5 December 2018,Portland,Oregon,18273,2285680
+WorldWired Tour,Metallica,7 December 2018,Sacramento,California,16591,2069225
+WorldWired Tour,Metallica,9 December 2018,Fresno,California,14854,1855485
+WorldWired Tour,Metallica,18 January 2019,Tulsa,Oklahoma,17612,2195900
+WorldWired Tour,Metallica,20 January 2019,North Little Rock,Arkansas,17432,1679923
+WorldWired Tour,Metallica,22 January 2019,Birmingham,Alabama,17462,1713460
+WorldWired Tour,Metallica,24 January 2019,Nashville,Tennessee,16340,2213550
+WorldWired Tour,Metallica,28 January 2019,Raleigh,North Carolina,20052,2409015
+WorldWired Tour,Metallica,30 January 2019,Cincinnati,Ohio,16587,2060625
+WorldWired Tour,Metallica,1 February 2019,Cleveland,Ohio,18515,2463702
+WorldWired Tour,Metallica,28 February 2019,El Paso,Texas,12546,1558320
+WorldWired Tour,Metallica,2 March 2019,Lubbock,Texas,14653,1813730
+WorldWired Tour,Metallica,4 March 2019,Wichita,Kansas,15187,1648058
+WorldWired Tour,Metallica,6 March 2019,Kansas City,Missouri,18535,2047000
+WorldWired Tour,Metallica,9 March 2019,Louisville,Kentucky,21657,2531895
+WorldWired Tour,Metallica,11 March 2019,Indianapolis,Indiana,17068,2129940
+WorldWired Tour,Metallica,13 March 2019,Grand Rapids,Michigan,11692,1421960
+No Filter Tour,The Rolling Stones,21 June 2019,Chicago,Illinois,49114,10870782
+No Filter Tour,The Rolling Stones,25 June 2019,Chicago,Illinois,49114,10870782
+No Filter Tour,The Rolling Stones,3 July 2019,Landover,Maryland,39082,9257202
+No Filter Tour,The Rolling Stones,7 July 2019,Foxborough,Massachusetts,49669,11675732
+No Filter Tour,The Rolling Stones,15 July 2019,New Orleans,Louisiana,35023,7163692
+No Filter Tour,The Rolling Stones,19 July 2019,Jacksonville,Florida,50358,10198392
+No Filter Tour,The Rolling Stones,23 July 2019,Philadelphia,Pennsylvania,51115,11741373
+No Filter Tour,The Rolling Stones,27 July 2019,Houston,Texas,45958,11068397
+No Filter Tour,The Rolling Stones,1 August 2019,East Rutherford,New Jersey,52482,12755219
+No Filter Tour,The Rolling Stones,5 August 2019,East Rutherford,New Jersey,52482,12755219
+No Filter Tour,The Rolling Stones,10 August 2019,Denver,Colorado,58846,13494183
+No Filter Tour,The Rolling Stones,14 August 2019,Seattle,Washington,53363,11835818
+No Filter Tour,The Rolling Stones,18 August 2019,Santa Clara,California,47578,11496719
+No Filter Tour,The Rolling Stones,22 August 2019,Pasadena,California,56974,13113319
+No Filter Tour,The Rolling Stones,26 August 2019,Glendale,Arizona,52726,9747170
+No Filter Tour,The Rolling Stones,30 August 2019,Miami Gardens,Florida,40768,9762771
+Beautiful Trauma World Tour,Pink,1 March 2018,Phoenix,Arizona,14181,1906176
+Beautiful Trauma World Tour,Pink,3 March 2018,Wichita,Kansas,11894,1647788
+Beautiful Trauma World Tour,Pink,5 March 2018,Tulsa,Oklahoma,14146,1734989
+Beautiful Trauma World Tour,Pink,6 March 2018,Lincoln,Nebraska,13647,1755144
+Beautiful Trauma World Tour,Pink,9 March 2018,Chicago,Illinois,15738,2127115
+Beautiful Trauma World Tour,Pink,10 March 2018,Chicago,Illinois,15738,2127115
+Beautiful Trauma World Tour,Pink,12 March 2018,Saint Paul,Minnesota,15710,2217347
+Beautiful Trauma World Tour,Pink,14 March 2018,St. Louis,Missouri,15026,1852210
+Beautiful Trauma World Tour,Pink,15 March 2018,Kansas City,Missouri,14068,1868282
+Beautiful Trauma World Tour,Pink,17 March 2018,Indianapolis,Indiana,14544,1749814
+Beautiful Trauma World Tour,Pink,18 March 2018,Grand Rapids,Michigan,11764,1623071
+Beautiful Trauma World Tour,Pink,27 March 2018,Louisville,Kentucky,17445,2024356
+Beautiful Trauma World Tour,Pink,28 March 2018,Cleveland,Ohio,15562,1912595
+Beautiful Trauma World Tour,Pink,4 April 2018,New York City,New York,15143,2660280
+Beautiful Trauma World Tour,Pink,5 April 2018,New York City,New York,15143,2660280
+Beautiful Trauma World Tour,Pink,7 April 2018,Pittsburgh,Pennsylvania,16708,2210603
+Beautiful Trauma World Tour,Pink,9 April 2018,Boston,Massachusetts,16202,2334320
+Beautiful Trauma World Tour,Pink,10 April 2018,Boston,Massachusetts,16202,2334320
+Beautiful Trauma World Tour,Pink,13 April 2018,Philadelphia,Pennsylvania,18191,2839340
+Beautiful Trauma World Tour,Pink,14 April 2018,Newark,New Jersey,15687,2684824
+Beautiful Trauma World Tour,Pink,16 April 2018,"Washington, D.C.",District of Columbia,16292,2249009
+Beautiful Trauma World Tour,Pink,17 April 2018,"Washington, D.C.",District of Columbia,16292,2249009
+Beautiful Trauma World Tour,Pink,19 April 2018,Charlottesville,Virginia,13014,1645760
+Beautiful Trauma World Tour,Pink,21 April 2018,Atlanta,Georgia,12441,1661156
+Beautiful Trauma World Tour,Pink,24 April 2018,Orlando,Florida,15109,2171487
+Beautiful Trauma World Tour,Pink,25 April 2018,Sunrise,Florida,15999,2184919
+Beautiful Trauma World Tour,Pink,27 April 2018,Houston,Texas,12808,1695602
+Beautiful Trauma World Tour,Pink,28 April 2018,Houston,Texas,12808,1695602
+Beautiful Trauma World Tour,Pink,1 May 2018,Dallas,Texas,14603,1821438
+Beautiful Trauma World Tour,Pink,2 May 2018,Dallas,Texas,14603,1821438
+Beautiful Trauma World Tour,Pink,8 May 2018,Denver,Colorado,17446,2160741
+Beautiful Trauma World Tour,Pink,9 May 2018,Salt Lake City,Utah,14254,1947385
+Beautiful Trauma World Tour,Pink,13 May 2018,Seattle,Washington,14027,2229945
+Beautiful Trauma World Tour,Pink,15 May 2018,Portland,Oregon,15757,2114035
+Beautiful Trauma World Tour,Pink,18 May 2018,Oakland,California,16298,2357778
+Beautiful Trauma World Tour,Pink,19 May 2018,Oakland,California,16298,2357778
+Beautiful Trauma World Tour,Pink,22 May 2018,Fresno,California,12721,1717899
+Beautiful Trauma World Tour,Pink,23 May 2018,Ontario,California,9597,1457009
+Beautiful Trauma World Tour,Pink,25 May 2018,Anaheim,California,16125,2014710
+Beautiful Trauma World Tour,Pink,26 May 2018,Las Vegas,Nevada,17019,2656351
+Beautiful Trauma World Tour,Pink,28 May 2018,San Diego,California,11872,1664733
+Beautiful Trauma World Tour,Pink,31 May 2018,Los Angeles,California,17047,2358686
+Beautiful Trauma World Tour,Pink,1 June 2018,Inglewood,California,14777,2307175
+Beautiful Trauma World Tour,Pink,1 March 2019,Sunrise,Florida,14883,2463165
+Beautiful Trauma World Tour,Pink,3 March 2019,Tampa,Florida,15068,2373771
+Beautiful Trauma World Tour,Pink,5 March 2019,Jacksonville,Florida,11700,1915530
+Beautiful Trauma World Tour,Pink,7 March 2019,Columbia,South Carolina,13481,1722813
+Beautiful Trauma World Tour,Pink,9 March 2019,Charlotte,North Carolina,15596,2578534
+Beautiful Trauma World Tour,Pink,10 March 2019,Nashville,Tennessee,14336,2326690
+Beautiful Trauma World Tour,Pink,12 March 2019,Atlanta,Georgia,11472,1586831
+Beautiful Trauma World Tour,Pink,14 March 2019,Birmingham,Alabama,13959,1487637
+Beautiful Trauma World Tour,Pink,16 March 2019,Bossier City,Louisiana,,
+Beautiful Trauma World Tour,Pink,17 March 2019,New Orleans,Louisiana,14500,2215600
+Beautiful Trauma World Tour,Pink,19 March 2019,Houston,Texas,,
+Beautiful Trauma World Tour,Pink,21 March 2019,San Antonio,Texas,15651,2115377
+Beautiful Trauma World Tour,Pink,23 March 2019,Oklahoma City,Oklahoma,13820,2049271
+Beautiful Trauma World Tour,Pink,24 March 2019,Dallas,Texas,14658,2067277
+Beautiful Trauma World Tour,Pink,30 March 2019,Glendale,Arizona,13737,2363364
+Beautiful Trauma World Tour,Pink,1 April 2019,Denver,Colorado,14548,2117678
+Beautiful Trauma World Tour,Pink,3 April 2019,Salt Lake City,Utah,13586,1889389
+Beautiful Trauma World Tour,Pink,8 April 2019,Portland,Oregon,14942,2159245
+Beautiful Trauma World Tour,Pink,10 April 2019,Sacramento,California,14881,2628946
+Beautiful Trauma World Tour,Pink,12 April 2019,Las Vegas,Nevada,16130,2340138
+Beautiful Trauma World Tour,Pink,13 April 2019,Anaheim,California,12832,1925556
+Beautiful Trauma World Tour,Pink,15 April 2019,Los Angeles,California,13699,1336647
+Beautiful Trauma World Tour,Pink,17 April 2019,San Jose,California,14055,2125545
+Beautiful Trauma World Tour,Pink,19 April 2019,Inglewood,California,14354,2074363
+Beautiful Trauma World Tour,Pink,26 April 2019,Detroit,Michigan,15250,2297321
+Beautiful Trauma World Tour,Pink,27 April 2019,Detroit,Michigan,15250,2297321
+Beautiful Trauma World Tour,Pink,30 April 2019,Indianapolis,Indiana,14444,2011671
+Beautiful Trauma World Tour,Pink,2 May 2019,Milwaukee,Wisconsin,13331,2336580
+Beautiful Trauma World Tour,Pink,4 May 2019,Fargo,North Dakota,22164,2927135
+Beautiful Trauma World Tour,Pink,5 May 2019,Saint Paul,Minnesota,15820,2735448
+Beautiful Trauma World Tour,Pink,7 May 2019,Omaha,Nebraska,15050,2187858
+Beautiful Trauma World Tour,Pink,9 May 2019,Lexington,Kentucky,17256,1771383
+Beautiful Trauma World Tour,Pink,11 May 2019,Columbus,Ohio,14907,2281760
+Beautiful Trauma World Tour,Pink,21 May 2019,New York City,New York,14999,2763507
+Beautiful Trauma World Tour,Pink,22 May 2019,New York City,New York,14999,2763507
+Beautiful Trauma World Tour,Pink,16 August 2019,Uniondale,New York,12339,2092479
+Beautiful Trauma World Tour,Pink,2 November 2019,Austin,Texas,,
+The Joshua Tree Tours 2017 and 2019,U2,14 May 2017,Seattle,Washington,57009,6249670
+The Joshua Tree Tours 2017 and 2020,U2,17 May 2017,Santa Clara,California,50072,6268805
+The Joshua Tree Tours 2017 and 2021,U2,20 May 2017,Pasadena,California,61582,7892283
+The Joshua Tree Tours 2017 and 2022,U2,21 May 2017,Pasadena,California,61582,7892283
+The Joshua Tree Tours 2017 and 2023,U2,24 May 2017,Houston,Texas,47669,5889005
+The Joshua Tree Tours 2017 and 2024,U2,26 May 2017,Arlington,Texas,49807,6044330
+The Joshua Tree Tours 2017 and 2025,U2,3 June 2017,Chicago,Illinois,52539,6717963
+The Joshua Tree Tours 2017 and 2026,U2,4 June 2017,Chicago,Illinois,52539,6717963
+The Joshua Tree Tours 2017 and 2027,U2,7 June 2017,Pittsburgh,Pennsylvania,41413,4273920
+The Joshua Tree Tours 2017 and 2028,U2,9 June 2017,Manchester,Tennessee,,
+The Joshua Tree Tours 2017 and 2029,U2,11 June 2017,Miami Gardens,Florida,48494,5923665
+The Joshua Tree Tours 2017 and 2030,U2,14 June 2017,Tampa,Florida,52958,6125415
+The Joshua Tree Tours 2017 and 2031,U2,16 June 2017,Louisville,Kentucky,45491,4810535
+The Joshua Tree Tours 2017 and 2032,U2,18 June 2017,Philadelphia,Pennsylvania,56570,6259880
+The Joshua Tree Tours 2017 and 2033,U2,20 June 2017,Landover,Maryland,49827,6286385
+The Joshua Tree Tours 2017 and 2034,U2,25 June 2017,Foxborough,Massachusetts,55231,6881340
+The Joshua Tree Tours 2017 and 2035,U2,28 June 2017,East Rutherford,New Jersey,55321,7284403
+The Joshua Tree Tours 2017 and 2036,U2,29 June 2017,East Rutherford,New Jersey,55321,7284403
+The Joshua Tree Tours 2017 and 2037,U2,1 July 2017,Cleveland,Ohio,51849,5582965
+The Joshua Tree Tours 2017 and 2038,U2,3 September 2017,Detroit,Michigan,42905,4936605
+The Joshua Tree Tours 2017 and 2039,U2,5 September 2017,Orchard Park,New York,41106,4269245
+The Joshua Tree Tours 2017 and 2040,U2,8 September 2017,Minneapolis,Minnesota,43386,4698100
+The Joshua Tree Tours 2017 and 2041,U2,10 September 2017,Indianapolis,Indiana,51731,5970055
+The Joshua Tree Tours 2017 and 2042,U2,12 September 2017,Kansas City,Missouri,39593,4200160
+The Joshua Tree Tours 2017 and 2043,U2,14 September 2017,New Orleans,Louisiana,34536,3873405
+The Joshua Tree Tours 2017 and 2044,U2,19 September 2017,Glendale,Arizona,42814,4169215
+The Joshua Tree Tours 2017 and 2045,U2,22 September 2017,San Diego,California,54221,6469130
+24K Magic World Tour,Bruno Mars,15 July 2017,Las Vegas,Nevada,16556,1947649
+24K Magic World Tour,Bruno Mars,18 July 2017,Sacramento,California,15170,1586433
+24K Magic World Tour,Bruno Mars,20 July 2017,San Jose,California,14222,1836516
+24K Magic World Tour,Bruno Mars,21 July 2017,San Jose,California,14222,1836516
+24K Magic World Tour,Bruno Mars,23 July 2017,Portland,Oregon,15417,1655665
+24K Magic World Tour,Bruno Mars,24 July 2017,Tacoma,Washington,19454,1746589
+24K Magic World Tour,Bruno Mars,4 August 2017,Fargo,North Dakota,18489,1850542
+24K Magic World Tour,Bruno Mars,5 August 2017,Saint Paul,Minnesota,16350,1905256
+24K Magic World Tour,Bruno Mars,7 August 2017,Lincoln,Nebraska,14105,1517410
+24K Magic World Tour,Bruno Mars,9 August 2017,Kansas City,Missouri,15154,1660106
+24K Magic World Tour,Bruno Mars,12 August 2017,Auburn Hills,Michigan,16013,1936194
+24K Magic World Tour,Bruno Mars,13 August 2017,Indianapolis,Indiana,15112,1635885
+24K Magic World Tour,Bruno Mars,15 August 2017,Cleveland,Ohio,17103,1827568
+24K Magic World Tour,Bruno Mars,16 August 2017,Chicago,Illinois,15981,2115983
+24K Magic World Tour,Bruno Mars,18 August 2017,Chicago,Illinois,15981,2115983
+24K Magic World Tour,Bruno Mars,19 August 2017,Chicago,Illinois,15981,2115983
+24K Magic World Tour,Bruno Mars,22 August 2017,Pittsburgh,Pennsylvania,15776,1761947
+24K Magic World Tour,Bruno Mars,14 September 2017,Charlotte,North Carolina,15931,1766253
+24K Magic World Tour,Bruno Mars,16 September 2017,Atlanta,Georgia,,
+24K Magic World Tour,Bruno Mars,17 September 2017,Memphis,Tennessee,14815,1597428
+24K Magic World Tour,Bruno Mars,19 September 2017,Louisville,Kentucky,18176,1911793
+24K Magic World Tour,Bruno Mars,20 September 2017,Columbus,Ohio,15288,1718528
+24K Magic World Tour,Bruno Mars,22 September 2017,New York City,New York,15659,2060099
+24K Magic World Tour,Bruno Mars,23 September 2017,New York City,New York,15659,2060099
+24K Magic World Tour,Bruno Mars,26 September 2017,Newark,New Jersey,14625,1820526
+24K Magic World Tour,Bruno Mars,27 September 2017,Buffalo,New York,15984,1684265
+24K Magic World Tour,Bruno Mars,29 September 2017,"Washington, D.C.",District of Columbia,15924,2090120
+24K Magic World Tour,Bruno Mars,30 September 2017,"Washington, D.C.",District of Columbia,15924,2090120
+24K Magic World Tour,Bruno Mars,4 October 2017,Brooklyn,New York,15370,1898099
+24K Magic World Tour,Bruno Mars,5 October 2017,Uniondale,New York,13052,1626154
+24K Magic World Tour,Bruno Mars,7 October 2017,Boston,Massachusetts,14420,1847904
+24K Magic World Tour,Bruno Mars,8 October 2017,Boston,Massachusetts,14420,1847904
+24K Magic World Tour,Bruno Mars,10 October 2017,Philadelphia,Pennsylvania,16555,2086312
+24K Magic World Tour,Bruno Mars,12 October 2017,Raleigh,North Carolina,15541,1819506
+24K Magic World Tour,Bruno Mars,14 October 2017,Orlando,Florida,14067,1532415
+24K Magic World Tour,Bruno Mars,15 October 2017,Sunrise,Florida,15012,1941593
+24K Magic World Tour,Bruno Mars,18 October 2017,Miami,Florida,15190,2036300
+24K Magic World Tour,Bruno Mars,19 October 2017,Tampa,Florida,15494,1737059
+24K Magic World Tour,Bruno Mars,21 October 2017,New Orleans,Louisiana,15056,1656475
+24K Magic World Tour,Bruno Mars,22 October 2017,North Little Rock,Arkansas,15806,1573424
+24K Magic World Tour,Bruno Mars,24 October 2017,Houston,Texas,13529,1805759
+24K Magic World Tour,Bruno Mars,25 October 2017,San Antonio,Texas,15710,1751972
+24K Magic World Tour,Bruno Mars,27 October 2017,Dallas,Texas,14879,1744937
+24K Magic World Tour,Bruno Mars,2 November 2017,Fresno,California,12730,1427143
+24K Magic World Tour,Bruno Mars,3 November 2017,Oakland,California,15884,1981559
+24K Magic World Tour,Bruno Mars,5 November 2017,Phoenix,Arizona,14764,1651992
+24K Magic World Tour,Bruno Mars,7 November 2017,Inglewood,California,15473,2105004
+24K Magic World Tour,Bruno Mars,8 November 2017,Inglewood,California,15473,2105004
+24K Magic World Tour,Bruno Mars,10 November 2017,Inglewood,California,15473,2105004
+24K Magic World Tour,Bruno Mars,11 November 2017,Inglewood,California,15473,2105004
+24K Magic World Tour,Bruno Mars,27 May 2018,Napa,California,,
+24K Magic World Tour,Bruno Mars,3 August 2018,Chicago,Illinois,,
+24K Magic World Tour,Bruno Mars,7 September 2018,Denver,Colorado,14195,1891639
+24K Magic World Tour,Bruno Mars,8 September 2018,Denver,Colorado,14195,1891639
+24K Magic World Tour,Bruno Mars,11 September 2018,Saint Paul,Minnesota,14304,1879454
+24K Magic World Tour,Bruno Mars,12 September 2018,Saint Paul,Minnesota,14304,1879454
+24K Magic World Tour,Bruno Mars,15 September 2018,Detroit,Michigan,14638,1984887
+24K Magic World Tour,Bruno Mars,16 September 2018,Detroit,Michigan,14638,1984887
+24K Magic World Tour,Bruno Mars,19 September 2018,Philadelphia,Pennsylvania,13940,1892504
+24K Magic World Tour,Bruno Mars,20 September 2018,Philadelphia,Pennsylvania,13940,1892504
+24K Magic World Tour,Bruno Mars,27 September 2018,Boston,Massachusetts,13342,2063375
+24K Magic World Tour,Bruno Mars,28 September 2018,Boston,Massachusetts,13342,2063375
+24K Magic World Tour,Bruno Mars,1 October 2018,Newark,New Jersey,12451,2036296
+24K Magic World Tour,Bruno Mars,2 October 2018,Newark,New Jersey,12451,2036296
+24K Magic World Tour,Bruno Mars,4 October 2018,Brooklyn,New York,14983,2569081
+24K Magic World Tour,Bruno Mars,5 October 2018,Brooklyn,New York,14983,2569081
+24K Magic World Tour,Bruno Mars,7 October 2018,Nashville,Tennessee,14622,2183676
+24K Magic World Tour,Bruno Mars,8 October 2018,Nashville,Tennessee,14622,2183676
+24K Magic World Tour,Bruno Mars,11 October 2018,Tulsa,Oklahoma,13082,1772206
+24K Magic World Tour,Bruno Mars,12 October 2018,Tulsa,Oklahoma,13082,1772206
+24K Magic World Tour,Bruno Mars,14 October 2018,Dallas,Texas,13967,2090465
+24K Magic World Tour,Bruno Mars,15 October 2018,Dallas,Texas,13967,2090465
+24K Magic World Tour,Bruno Mars,20 October 2018,Austin,Texas,,
+24K Magic World Tour,Bruno Mars,23 October 2018,Los Angeles,California,15331,2278303
+24K Magic World Tour,Bruno Mars,24 October 2018,Los Angeles,California,15331,2278303
+24K Magic World Tour,Bruno Mars,26 October 2018,Los Angeles,California,15331,2278303
+24K Magic World Tour,Bruno Mars,27 October 2018,Los Angeles,California,15331,2278303
+24K Magic World Tour,Bruno Mars,8 November 2018,Honolulu,Hawaii,37917,4131527
+24K Magic World Tour,Bruno Mars,10 November 2018,Honolulu,Hawaii,37917,4131527
+24K Magic World Tour,Bruno Mars,11 November 2018,Honolulu,Hawaii,37917,4131527
+24K Magic World Tour,Bruno Mars,30 December 2018,Las Vegas,Nevada,15121,2929784
+24K Magic World Tour,Bruno Mars,31 December 2018,Las Vegas,Nevada,15121,2929784

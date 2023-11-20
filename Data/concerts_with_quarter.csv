@@ -1,0 +1,454 @@
+,Tour,Artist,Date,City,State,Attendance (Avg.),Revenue (Avg.),Quarter,Count
+0,÷ Tour,Ed Sheeran,2017-06-29,Kansas City,Missouri,13382.0,1217313.0,2017:Q2,1.0
+1,÷ Tour,Ed Sheeran,2017-06-30,Des Moines,Iowa,13375.0,1078939.0,2017:Q2,1.0
+2,÷ Tour,Ed Sheeran,2017-07-01,Saint Paul,Minnesota,14938.0,1375063.0,2017:Q3,1.0
+3,÷ Tour,Ed Sheeran,2017-07-09,Buffalo,New York,14305.0,1167095.0,2017:Q3,1.0
+4,÷ Tour,Ed Sheeran,2017-07-11,Philadelphia,Pennsylvania,14461.0,1315130.0,2017:Q3,1.0
+5,÷ Tour,Ed Sheeran,2017-07-12,Philadelphia,Pennsylvania,14461.0,1315130.0,2017:Q3,1.0
+6,÷ Tour,Ed Sheeran,2017-07-14,Uncasville,Connecticut,7443.0,539582.0,2017:Q3,1.0
+7,÷ Tour,Ed Sheeran,2017-07-15,Uncasville,Connecticut,7443.0,539582.0,2017:Q3,1.0
+8,÷ Tour,Ed Sheeran,2017-07-29,Tacoma,Washington,19538.0,1575039.0,2017:Q3,1.0
+9,÷ Tour,Ed Sheeran,2017-07-30,Portland,Oregon,13420.0,1074959.0,2017:Q3,1.0
+10,÷ Tour,Ed Sheeran,2017-08-01,Sacramento,California,13424.0,1220937.0,2017:Q3,1.0
+11,÷ Tour,Ed Sheeran,2017-08-02,Oakland,California,13662.0,1219722.0,2017:Q3,1.0
+12,÷ Tour,Ed Sheeran,2017-08-04,Las Vegas,Nevada,15243.0,1326231.0,2017:Q3,1.0
+13,÷ Tour,Ed Sheeran,2017-08-05,Glendale,Arizona,13654.0,1239478.0,2017:Q3,1.0
+14,÷ Tour,Ed Sheeran,2017-08-06,San Diego,California,10233.0,917154.0,2017:Q3,1.0
+15,÷ Tour,Ed Sheeran,2017-08-10,Los Angeles,California,13577.0,1207401.0,2017:Q3,1.0
+16,÷ Tour,Ed Sheeran,2017-08-11,Los Angeles,California,13577.0,1207401.0,2017:Q3,1.0
+17,÷ Tour,Ed Sheeran,2017-08-12,Los Angeles,California,13577.0,1207401.0,2017:Q3,1.0
+18,÷ Tour,Ed Sheeran,2017-08-15,Denver,Colorado,12917.0,1159523.0,2017:Q3,1.0
+19,÷ Tour,Ed Sheeran,2017-08-17,Tulsa,Oklahoma,12069.0,961178.0,2017:Q3,1.0
+20,÷ Tour,Ed Sheeran,2017-08-18,Dallas,Texas,13632.0,1207645.0,2017:Q3,1.0
+21,÷ Tour,Ed Sheeran,2017-08-19,Houston,Texas,11811.0,1067592.0,2017:Q3,1.0
+22,÷ Tour,Ed Sheeran,2017-08-22,San Antonio,Texas,13928.0,1112573.0,2017:Q3,1.0
+23,÷ Tour,Ed Sheeran,2017-08-25,Duluth,Georgia,10528.0,985058.0,2017:Q3,1.0
+24,÷ Tour,Ed Sheeran,2017-08-26,Duluth,Georgia,10528.0,985058.0,2017:Q3,1.0
+25,÷ Tour,Ed Sheeran,2017-08-29,Tampa,Florida,13459.0,1076537.0,2017:Q3,1.0
+26,÷ Tour,Ed Sheeran,2017-08-30,Miami,Florida,12813.0,1144534.0,2017:Q3,1.0
+27,÷ Tour,Ed Sheeran,2017-08-31,Orlando,Florida,12360.0,1007408.0,2017:Q3,1.0
+28,÷ Tour,Ed Sheeran,2017-09-02,Raleigh,North Carolina,13805.0,1134012.0,2017:Q3,1.0
+29,÷ Tour,Ed Sheeran,2017-09-03,Charlotte,North Carolina,13927.0,1243772.0,2017:Q3,1.0
+30,÷ Tour,Ed Sheeran,2017-09-05,North Charleston,South Carolina,8271.0,673758.0,2017:Q3,1.0
+31,÷ Tour,Ed Sheeran,2017-09-07,Louisville,Kentucky,15721.0,1257529.0,2017:Q3,1.0
+32,÷ Tour,Ed Sheeran,2017-09-08,Indianapolis,Indiana,12740.0,1014966.0,2017:Q3,1.0
+33,÷ Tour,Ed Sheeran,2017-09-09,Cleveland,Ohio,14912.0,1365524.0,2017:Q3,1.0
+34,÷ Tour,Ed Sheeran,2017-09-12,Omaha,Nebraska,13990.0,1098225.0,2017:Q3,1.0
+35,÷ Tour,Ed Sheeran,2017-09-15,Rosemont,Illinois,13173.0,1173940.0,2017:Q3,1.0
+36,÷ Tour,Ed Sheeran,2017-09-16,Rosemont,Illinois,13173.0,1173940.0,2017:Q3,1.0
+37,÷ Tour,Ed Sheeran,2017-09-19,"Washington, D.C.",District of Columbia,13748.0,1228166.0,2017:Q3,1.0
+38,÷ Tour,Ed Sheeran,2017-09-20,"Washington, D.C.",District of Columbia,13748.0,1228166.0,2017:Q3,1.0
+39,÷ Tour,Ed Sheeran,2017-09-22,Boston,Massachusetts,12795.0,1147608.0,2017:Q3,1.0
+40,÷ Tour,Ed Sheeran,2017-09-23,Boston,Massachusetts,12795.0,1147608.0,2017:Q3,1.0
+41,÷ Tour,Ed Sheeran,2017-09-26,Pittsburgh,Pennsylvania,13331.0,1190945.0,2017:Q3,1.0
+42,÷ Tour,Ed Sheeran,2017-09-27,Detroit,Michigan,14124.0,1268652.0,2017:Q3,1.0
+43,÷ Tour,Ed Sheeran,2017-09-29,Brooklyn,New York,13688.0,1219493.0,2017:Q3,1.0
+44,÷ Tour,Ed Sheeran,2017-09-30,Brooklyn,New York,13688.0,1219493.0,2017:Q3,1.0
+45,÷ Tour,Ed Sheeran,2017-10-01,Brooklyn,New York,13688.0,1219493.0,2017:Q4,1.0
+46,÷ Tour,Ed Sheeran,2017-10-03,Columbus,Ohio,13627.0,1099609.0,2017:Q4,1.0
+47,÷ Tour,Ed Sheeran,2017-10-04,Columbus,Ohio,13627.0,1099609.0,2017:Q4,1.0
+48,÷ Tour,Ed Sheeran,2017-10-06,Nashville,Tennessee,13860.0,1251904.0,2017:Q4,1.0
+49,÷ Tour,Ed Sheeran,2017-10-07,Nashville,Tennessee,13860.0,1251904.0,2017:Q4,1.0
+50,÷ Tour,Ed Sheeran,2018-08-18,Pasadena,California,62321.0,6315595.0,2018:Q3,1.0
+51,÷ Tour,Ed Sheeran,2018-08-21,San Francisco,California,38647.0,4199073.0,2018:Q3,1.0
+52,÷ Tour,Ed Sheeran,2018-08-25,Seattle,Washington,55891.0,4932401.0,2018:Q3,1.0
+53,÷ Tour,Ed Sheeran,2018-09-06,St. Louis,Missouri,41522.0,3726270.0,2018:Q3,1.0
+54,÷ Tour,Ed Sheeran,2018-09-08,Detroit,Michigan,47804.0,4481289.0,2018:Q3,1.0
+55,÷ Tour,Ed Sheeran,2018-09-14,Foxborough,Massachusetts,55119.0,4916274.0,2018:Q3,1.0
+56,÷ Tour,Ed Sheeran,2018-09-15,Foxborough,Massachusetts,55119.0,4916274.0,2018:Q3,1.0
+57,÷ Tour,Ed Sheeran,2018-09-21,East Rutherford,New Jersey,53750.0,5610103.0,2018:Q3,1.0
+58,÷ Tour,Ed Sheeran,2018-09-22,East Rutherford,New Jersey,53750.0,5610103.0,2018:Q3,1.0
+59,÷ Tour,Ed Sheeran,2018-09-27,Philadelphia,Pennsylvania,54292.0,5161682.0,2018:Q3,1.0
+60,÷ Tour,Ed Sheeran,2018-09-29,Pittsburgh,Pennsylvania,41014.0,4169873.0,2018:Q3,1.0
+61,÷ Tour,Ed Sheeran,2018-10-04,Chicago,Illinois,47263.0,4339349.0,2018:Q4,1.0
+62,÷ Tour,Ed Sheeran,2018-10-06,Nashville,Tennessee,45888.0,3954931.0,2018:Q4,1.0
+63,÷ Tour,Ed Sheeran,2018-10-13,Kansas City,Missouri,51324.0,4008747.0,2018:Q4,1.0
+64,÷ Tour,Ed Sheeran,2018-10-17,Fargo,North Dakota,17761.0,1766790.0,2018:Q4,1.0
+65,÷ Tour,Ed Sheeran,2018-10-20,Minneapolis,Minnesota,49359.0,4512421.0,2018:Q4,1.0
+66,÷ Tour,Ed Sheeran,2018-10-24,Milwaukee,Wisconsin,37288.0,3390498.0,2018:Q4,1.0
+67,÷ Tour,Ed Sheeran,2018-10-27,Arlington,Texas,46249.0,4528560.0,2018:Q4,1.0
+68,÷ Tour,Ed Sheeran,2018-10-31,New Orleans,Louisiana,42295.0,2827815.0,2018:Q4,1.0
+69,÷ Tour,Ed Sheeran,2018-11-03,Houston,Texas,39354.0,3985595.0,2018:Q4,1.0
+70,÷ Tour,Ed Sheeran,2018-11-07,Tampa,Florida,51120.0,4197412.0,2018:Q4,1.0
+71,÷ Tour,Ed Sheeran,2018-11-09,Atlanta,Georgia,50906.0,5021395.0,2018:Q4,1.0
+72,Not in This Lifetime... Tour,Guns N' Roses,2016-06-23,Detroit,Michigan,44439.0,4776767.0,2016:Q2,1.0
+73,Not in This Lifetime... Tour,Guns N' Roses,2016-06-26,Landover,Maryland,41208.0,4107027.0,2016:Q2,1.0
+74,Not in This Lifetime... Tour,Guns N' Roses,2016-06-29,Kansas City,Missouri,40387.0,3285043.0,2016:Q2,1.0
+75,Not in This Lifetime... Tour,Guns N' Roses,2016-07-01,Chicago,Illinois,41086.0,4421842.0,2016:Q3,1.0
+76,Not in This Lifetime... Tour,Guns N' Roses,2016-07-03,Chicago,Illinois,41086.0,4421842.0,2016:Q3,1.0
+77,Not in This Lifetime... Tour,Guns N' Roses,2016-07-06,Cincinnati,Ohio,32516.0,2857336.0,2016:Q3,1.0
+78,Not in This Lifetime... Tour,Guns N' Roses,2016-07-09,Nashville,Tennessee,42824.0,4765878.0,2016:Q3,1.0
+79,Not in This Lifetime... Tour,Guns N' Roses,2016-07-12,Pittsburgh,Pennsylvania,39109.0,3810026.0,2016:Q3,1.0
+80,Not in This Lifetime... Tour,Guns N' Roses,2016-07-14,Philadelphia,Pennsylvania,49328.0,4883474.0,2016:Q3,1.0
+81,Not in This Lifetime... Tour,Guns N' Roses,2016-07-19,Foxborough,Massachusetts,32736.0,4151287.0,2016:Q3,1.0
+82,Not in This Lifetime... Tour,Guns N' Roses,2016-07-20,Foxborough,Massachusetts,32736.0,4151287.0,2016:Q3,1.0
+83,Not in This Lifetime... Tour,Guns N' Roses,2016-07-23,East Rutherford,New Jersey,50088.0,5843695.0,2016:Q3,1.0
+84,Not in This Lifetime... Tour,Guns N' Roses,2016-07-24,East Rutherford,New Jersey,50088.0,5843695.0,2016:Q3,1.0
+85,Not in This Lifetime... Tour,Guns N' Roses,2016-07-27,Atlanta,Georgia,41508.0,4544620.0,2016:Q3,1.0
+86,Not in This Lifetime... Tour,Guns N' Roses,2016-07-29,Orlando,Florida,40702.0,5852060.0,2016:Q3,1.0
+87,Not in This Lifetime... Tour,Guns N' Roses,2016-07-31,New Orleans,Louisiana,32894.0,3447362.0,2016:Q3,1.0
+88,Not in This Lifetime... Tour,Guns N' Roses,2016-08-03,Arlington,Texas,39015.0,4786948.0,2016:Q3,1.0
+89,Not in This Lifetime... Tour,Guns N' Roses,2016-08-05,Houston,Texas,49778.0,6166657.0,2016:Q3,1.0
+90,Not in This Lifetime... Tour,Guns N' Roses,2016-08-09,San Francisco,California,38173.0,5597843.0,2016:Q3,1.0
+91,Not in This Lifetime... Tour,Guns N' Roses,2016-08-12,Seattle,Washington,42697.0,5237966.0,2016:Q3,1.0
+92,Not in This Lifetime... Tour,Guns N' Roses,2016-08-15,Glendale,Arizona,44110.0,4257189.0,2016:Q3,1.0
+93,Not in This Lifetime... Tour,Guns N' Roses,2016-08-18,Los Angeles,California,42317.0,4458879.0,2016:Q3,1.0
+94,Not in This Lifetime... Tour,Guns N' Roses,2016-08-19,Los Angeles,California,42317.0,4458879.0,2016:Q3,1.0
+95,Not in This Lifetime... Tour,Guns N' Roses,2016-08-22,San Diego,California,49458.0,5337634.0,2016:Q3,1.0
+96,Not in This Lifetime... Tour,Guns N' Roses,2017-07-20,New York City,New York,0.0,0.0,2017:Q3,1.0
+97,Not in This Lifetime... Tour,Guns N' Roses,2017-07-27,St. Louis,Missouri,36382.0,3533972.0,2017:Q3,1.0
+98,Not in This Lifetime... Tour,Guns N' Roses,2017-07-30,Minneapolis,Minnesota,48740.0,5567052.0,2017:Q3,1.0
+99,Not in This Lifetime... Tour,Guns N' Roses,2017-08-02,Denver,Colorado,41445.0,3846068.0,2017:Q3,1.0
+100,Not in This Lifetime... Tour,Guns N' Roses,2017-08-05,Little Rock,Arkansas,26400.0,1896770.0,2017:Q3,1.0
+101,Not in This Lifetime... Tour,Guns N' Roses,2017-08-08,Miami,Florida,37834.0,4102883.0,2017:Q3,1.0
+102,Not in This Lifetime... Tour,Guns N' Roses,2017-08-11,Winston-Salem,North Carolina,32847.0,3447947.0,2017:Q3,1.0
+103,Not in This Lifetime... Tour,Guns N' Roses,2017-08-13,Hershey,Pennsylvania,31087.0,3500876.0,2017:Q3,1.0
+104,Not in This Lifetime... Tour,Guns N' Roses,2017-08-16,Orchard Park,New York,32245.0,2626070.0,2017:Q3,1.0
+105,Not in This Lifetime... Tour,Guns N' Roses,2017-09-03,George,Washington,15781.0,1653890.0,2017:Q3,1.0
+106,Not in This Lifetime... Tour,Guns N' Roses,2017-09-06,El Paso,Texas,39780.0,3087980.0,2017:Q3,1.0
+107,Not in This Lifetime... Tour,Guns N' Roses,2017-09-08,San Antonio,Texas,38490.0,3859017.0,2017:Q3,1.0
+108,Not in This Lifetime... Tour,Guns N' Roses,2017-10-08,Philadelphia,Pennsylvania,0.0,0.0,2017:Q4,1.0
+109,Not in This Lifetime... Tour,Guns N' Roses,2017-10-11,New York City,New York,41818.0,6160000.0,2017:Q4,1.0
+110,Not in This Lifetime... Tour,Guns N' Roses,2017-10-12,Newark,New Jersey,0.0,0.0,2017:Q4,1.0
+111,Not in This Lifetime... Tour,Guns N' Roses,2017-10-15,New York City,New York,0.0,0.0,2017:Q4,1.0
+112,Not in This Lifetime... Tour,Guns N' Roses,2017-10-16,New York City,New York,0.0,0.0,2017:Q4,1.0
+113,Not in This Lifetime... Tour,Guns N' Roses,2017-10-19,"Washington, D.C.",District of Columbia,0.0,0.0,2017:Q4,1.0
+114,Not in This Lifetime... Tour,Guns N' Roses,2017-10-22,Boston,Massachusetts,0.0,0.0,2017:Q4,1.0
+115,Not in This Lifetime... Tour,Guns N' Roses,2017-10-23,Hartford,Connecticut,0.0,0.0,2017:Q4,1.0
+116,Not in This Lifetime... Tour,Guns N' Roses,2017-10-26,Cleveland,Ohio,0.0,0.0,2017:Q4,1.0
+117,Not in This Lifetime... Tour,Guns N' Roses,2017-11-02,Detroit,Michigan,0.0,0.0,2017:Q4,1.0
+118,Not in This Lifetime... Tour,Guns N' Roses,2017-11-03,Louisville,Kentucky,0.0,0.0,2017:Q4,1.0
+119,Not in This Lifetime... Tour,Guns N' Roses,2017-11-06,Chicago,Illinois,0.0,0.0,2017:Q4,1.0
+120,Not in This Lifetime... Tour,Guns N' Roses,2017-11-07,Milwaukee,Wisconsin,9723.0,1403070.0,2017:Q4,1.0
+121,Not in This Lifetime... Tour,Guns N' Roses,2017-11-10,Houston,Texas,10523.0,1652912.0,2017:Q4,1.0
+122,Not in This Lifetime... Tour,Guns N' Roses,2017-11-13,Nashville,Tennessee,10592.0,1523956.0,2017:Q4,1.0
+123,Not in This Lifetime... Tour,Guns N' Roses,2017-11-14,Tulsa,Oklahoma,10237.0,1349098.0,2017:Q4,1.0
+124,Not in This Lifetime... Tour,Guns N' Roses,2017-11-17,Las Vegas,Nevada,14250.0,2104371.0,2017:Q4,1.0
+125,Not in This Lifetime... Tour,Guns N' Roses,2017-11-18,Sacramento,California,12508.0,1691893.0,2017:Q4,1.0
+126,Not in This Lifetime... Tour,Guns N' Roses,2017-11-21,Oakland,California,13520.0,1866854.0,2017:Q4,1.0
+127,Not in This Lifetime... Tour,Guns N' Roses,2017-11-24,Los Angeles,California,11860.0,1806668.0,2017:Q4,1.0
+128,Not in This Lifetime... Tour,Guns N' Roses,2017-11-25,Inglewood,California,27012.0,3400000.0,2017:Q4,1.0
+129,Not in This Lifetime... Tour,Guns N' Roses,2017-11-28,San Diego,California,6886.0,1159655.0,2017:Q4,1.0
+130,Not in This Lifetime... Tour,Guns N' Roses,2017-11-29,Inglewood,California,0.0,0.0,2017:Q4,1.0
+131,Not in This Lifetime... Tour,Guns N' Roses,2018-12-08,Honolulu,Hawaii,22485.0,2113556.0,2018:Q4,1.0
+132,Not in This Lifetime... Tour,Guns N' Roses,2019-09-21,Los Angeles,California,0.0,0.0,2019:Q3,1.0
+133,Not in This Lifetime... Tour,Guns N' Roses,2019-09-25,Charlotte,North Carolina,13604.0,1999538.0,2019:Q3,1.0
+134,Not in This Lifetime... Tour,Guns N' Roses,2019-09-28,Louisville,Kentucky,0.0,0.0,2019:Q3,1.0
+135,Not in This Lifetime... Tour,Guns N' Roses,2019-10-01,Jacksonville,Florida,10765.0,1645694.0,2019:Q4,1.0
+136,Not in This Lifetime... Tour,Guns N' Roses,2019-10-04,Austin,Texas,0.0,0.0,2019:Q4,1.0
+137,Not in This Lifetime... Tour,Guns N' Roses,2019-10-07,Wichita,Kansas,0.0,0.0,2019:Q4,1.0
+138,Not in This Lifetime... Tour,Guns N' Roses,2019-10-11,Austin,Texas,0.0,0.0,2019:Q4,1.0
+139,Not in This Lifetime... Tour,Guns N' Roses,2019-10-13,Manchester,Tennessee,0.0,0.0,2019:Q4,1.0
+140,Not in This Lifetime... Tour,Guns N' Roses,2019-10-15,Lincoln,Nebraska,11263.0,1378675.0,2019:Q4,1.0
+141,Not in This Lifetime... Tour,Guns N' Roses,2019-10-23,Oklahoma City,Oklahoma,10905.0,1447993.0,2019:Q4,1.0
+142,Not in This Lifetime... Tour,Guns N' Roses,2019-10-25,New Orleans,Louisiana,0.0,0.0,2019:Q4,1.0
+143,Not in This Lifetime... Tour,Guns N' Roses,2019-10-29,Salt Lake City,Utah,11084.0,1436175.0,2019:Q4,1.0
+144,Not in This Lifetime... Tour,Guns N' Roses,2019-11-01,Las Vegas,Nevada,4164.0,1398472.0,2019:Q4,1.0
+145,Not in This Lifetime... Tour,Guns N' Roses,2019-11-02,Las Vegas,Nevada,4164.0,1398472.0,2019:Q4,1.0
+146,A Head Full of Dreams Tour,Coldplay,2016-07-16,East Rutherford,New Jersey,50381.0,5374697.0,2016:Q3,1.0
+147,A Head Full of Dreams Tour,Coldplay,2016-07-17,East Rutherford,New Jersey,50381.0,5374697.0,2016:Q3,1.0
+148,A Head Full of Dreams Tour,Coldplay,2016-07-20,Indianapolis,Indiana,12667.0,1460006.0,2016:Q3,1.0
+149,A Head Full of Dreams Tour,Coldplay,2016-07-21,St. Louis,Missouri,13960.0,1547633.0,2016:Q3,1.0
+150,A Head Full of Dreams Tour,Coldplay,2016-07-23,Chicago,Illinois,47661.0,5107786.0,2016:Q3,1.0
+151,A Head Full of Dreams Tour,Coldplay,2016-07-24,Chicago,Illinois,47661.0,5107786.0,2016:Q3,1.0
+152,A Head Full of Dreams Tour,Coldplay,2016-07-27,Louisville,Kentucky,13755.0,1520726.0,2016:Q3,1.0
+153,A Head Full of Dreams Tour,Coldplay,2016-07-28,Columbus,Ohio,15530.0,1933346.0,2016:Q3,1.0
+154,A Head Full of Dreams Tour,Coldplay,2016-07-30,Foxborough,Massachusetts,54952.0,6530260.0,2016:Q3,1.0
+155,A Head Full of Dreams Tour,Coldplay,2016-08-01,Buffalo,New York,15100.0,1878324.0,2016:Q3,1.0
+156,A Head Full of Dreams Tour,Coldplay,2016-08-03,Auburn Hills,Michigan,15436.0,1731667.0,2016:Q3,1.0
+157,A Head Full of Dreams Tour,Coldplay,2016-08-04,Pittsburgh,Pennsylvania,14360.0,1614917.0,2016:Q3,1.0
+158,A Head Full of Dreams Tour,Coldplay,2016-08-06,Philadelphia,Pennsylvania,54497.0,5530866.0,2016:Q3,1.0
+159,A Head Full of Dreams Tour,Coldplay,2016-08-20,Pasadena,California,60031.0,5457449.0,2016:Q3,1.0
+160,A Head Full of Dreams Tour,Coldplay,2016-08-21,Pasadena,California,60031.0,5457449.0,2016:Q3,1.0
+161,A Head Full of Dreams Tour,Coldplay,2016-08-23,Glendale,Arizona,14427.0,1776867.0,2016:Q3,1.0
+162,A Head Full of Dreams Tour,Coldplay,2016-08-25,Tulsa,Oklahoma,13234.0,1578961.0,2016:Q3,1.0
+163,A Head Full of Dreams Tour,Coldplay,2016-08-27,Arlington,Texas,52538.0,5679031.0,2016:Q3,1.0
+164,A Head Full of Dreams Tour,Coldplay,2016-08-29,Denver,Colorado,15664.0,1902639.0,2016:Q3,1.0
+165,A Head Full of Dreams Tour,Coldplay,2016-08-31,Salt Lake City,Utah,15645.0,1871968.0,2016:Q3,1.0
+166,A Head Full of Dreams Tour,Coldplay,2016-09-01,Paradise,Nevada,15898.0,2124032.0,2016:Q3,1.0
+167,A Head Full of Dreams Tour,Coldplay,2016-09-03,Santa Clara,California,52404.0,5990660.0,2016:Q3,1.0
+168,A Head Full of Dreams Tour,Coldplay,2016-09-04,Philadelphia,Pennsylvania,0.0,0.0,2016:Q3,1.0
+169,A Head Full of Dreams Tour,Coldplay,2017-08-01,East Rutherford,New Jersey,54501.0,7861460.0,2017:Q3,1.0
+170,A Head Full of Dreams Tour,Coldplay,2017-08-04,Foxborough,Massachusetts,52188.0,6263906.0,2017:Q3,1.0
+171,A Head Full of Dreams Tour,Coldplay,2017-08-06,Landover,Maryland,48380.0,4823333.0,2017:Q3,1.0
+172,A Head Full of Dreams Tour,Coldplay,2017-08-12,Minneapolis,Minnesota,47472.0,4325230.0,2017:Q3,1.0
+173,A Head Full of Dreams Tour,Coldplay,2017-08-14,Omaha,Nebraska,13009.0,1434880.0,2017:Q3,1.0
+174,A Head Full of Dreams Tour,Coldplay,2017-08-15,Kansas City,Missouri,12971.0,1736224.0,2017:Q3,1.0
+175,A Head Full of Dreams Tour,Coldplay,2017-08-17,Chicago,Illinois,52726.0,6026402.0,2017:Q3,1.0
+176,A Head Full of Dreams Tour,Coldplay,2017-08-19,Cleveland,Ohio,15963.0,2302868.0,2017:Q3,1.0
+177,A Head Full of Dreams Tour,Coldplay,2017-08-28,Miami Gardens,Florida,47866.0,6446966.0,2017:Q3,1.0
+178,A Head Full of Dreams Tour,Coldplay,2017-09-22,Paradise,Nevada,0.0,0.0,2017:Q3,1.0
+179,A Head Full of Dreams Tour,Coldplay,2017-09-23,Seattle,Washington,49031.0,5181106.0,2017:Q3,1.0
+180,A Head Full of Dreams Tour,Coldplay,2017-10-02,Portland,Oregon,14965.0,2121648.0,2017:Q4,1.0
+181,A Head Full of Dreams Tour,Coldplay,2017-10-04,Santa Clara,California,48341.0,5265835.0,2017:Q4,1.0
+182,A Head Full of Dreams Tour,Coldplay,2017-10-06,Pasadena,California,64442.0,6051529.0,2017:Q4,1.0
+183,A Head Full of Dreams Tour,Coldplay,2017-10-08,San Diego,California,54279.0,5955986.0,2017:Q4,1.0
+184,WorldWired Tour,Metallica,2016-02-06,San Francisco,California,41119.0,4341114.0,2016:Q1,1.0
+185,WorldWired Tour,Metallica,2016-08-20,Minneapolis,Minnesota,48492.0,5158790.0,2016:Q3,1.0
+186,WorldWired Tour,Metallica,2016-09-24,New York City,New York,,,2016:Q3,1.0
+187,WorldWired Tour,Metallica,2016-09-27,New York City,New York,,,2016:Q3,1.0
+188,WorldWired Tour,Metallica,2016-10-22,Mountain View,California,,,2016:Q4,1.0
+189,WorldWired Tour,Metallica,2016-10-23,Mountain View,California,,,2016:Q4,1.0
+190,WorldWired Tour,Metallica,2017-02-12,Los Angeles,California,,,2017:Q1,1.0
+191,WorldWired Tour,Metallica,2017-05-10,Baltimore,Maryland,55705.0,5970421.0,2017:Q2,1.0
+192,WorldWired Tour,Metallica,2017-05-12,Philadelphia,Pennsylvania,49722.0,5421187.0,2017:Q2,1.0
+193,WorldWired Tour,Metallica,2017-05-14,East Rutherford,New Jersey,46941.0,5196437.0,2017:Q2,1.0
+194,WorldWired Tour,Metallica,2017-05-17,Uniondale,New York,14941.0,2198951.0,2017:Q2,1.0
+195,WorldWired Tour,Metallica,2017-05-19,Foxborough,Massachusetts,47778.0,6095723.0,2017:Q2,1.0
+196,WorldWired Tour,Metallica,2017-05-21,Columbus,Ohio,29962.0,3960421.0,2017:Q2,1.0
+197,WorldWired Tour,Metallica,2017-06-04,St. Louis,Missouri,38778.0,4192393.0,2017:Q2,1.0
+198,WorldWired Tour,Metallica,2017-06-07,Denver,Colorado,57955.0,5884163.0,2017:Q2,1.0
+199,WorldWired Tour,Metallica,2017-06-09,Newton,Iowa,,,2017:Q2,1.0
+200,WorldWired Tour,Metallica,2017-06-11,Houston,Texas,46720.0,4854471.0,2017:Q2,1.0
+201,WorldWired Tour,Metallica,2017-06-14,San Antonio,Texas,45343.0,4527655.0,2017:Q2,1.0
+202,WorldWired Tour,Metallica,2017-06-16,Arlington,Texas,45860.0,4247778.0,2017:Q2,1.0
+203,WorldWired Tour,Metallica,2017-06-18,Chicago,Illinois,51041.0,5313715.0,2017:Q2,1.0
+204,WorldWired Tour,Metallica,2017-07-05,Orlando,Florida,49961.0,5613708.0,2017:Q3,1.0
+205,WorldWired Tour,Metallica,2017-07-07,Miami Gardens,Florida,42168.0,4163523.0,2017:Q3,1.0
+206,WorldWired Tour,Metallica,2017-07-09,Atlanta,Georgia,39024.0,4531443.0,2017:Q3,1.0
+207,WorldWired Tour,Metallica,2017-07-12,Detroit,Michigan,40573.0,4501650.0,2017:Q3,1.0
+208,WorldWired Tour,Metallica,2017-07-29,Pasadena,California,63285.0,6684282.0,2017:Q3,1.0
+209,WorldWired Tour,Metallica,2017-08-04,Glendale,Arizona,52926.0,5246586.0,2017:Q3,1.0
+210,WorldWired Tour,Metallica,2017-08-06,San Diego,California,43491.0,4846411.0,2017:Q3,1.0
+211,WorldWired Tour,Metallica,2017-08-09,Seattle,Washington,47175.0,4944489.0,2017:Q3,1.0
+212,WorldWired Tour,Metallica,2017-08-12,San Francisco,California,,,2017:Q3,1.0
+213,WorldWired Tour,Metallica,2018-09-02,Madison,Wisconsin,16137.0,1995140.0,2018:Q3,1.0
+214,WorldWired Tour,Metallica,2018-09-04,Minneapolis,Minnesota,17873.0,2407742.0,2018:Q3,1.0
+215,WorldWired Tour,Metallica,2018-09-06,Lincoln,Nebraska,14950.0,1825630.0,2018:Q3,1.0
+216,WorldWired Tour,Metallica,2018-09-08,Grand Forks,North Dakota,16970.0,1912505.0,2018:Q3,1.0
+217,WorldWired Tour,Metallica,2018-09-11,Sioux Falls,South Dakota,12018.0,1494540.0,2018:Q3,1.0
+218,WorldWired Tour,Metallica,2018-10-06,Austin,Texas,,,2018:Q4,1.0
+219,WorldWired Tour,Metallica,2018-10-13,Austin,Texas,,,2018:Q4,1.0
+220,WorldWired Tour,Metallica,2018-10-16,Milwaukee,Wisconsin,17091.0,2185835.0,2018:Q4,1.0
+221,WorldWired Tour,Metallica,2018-10-18,Pittsburgh,Pennsylvania,18502.0,2359924.0,2018:Q4,1.0
+222,WorldWired Tour,Metallica,2018-10-20,University Park,Pennsylvania,15588.0,1919035.0,2018:Q4,1.0
+223,WorldWired Tour,Metallica,2018-10-22,Charlotte,North Carolina,17718.0,2085875.0,2018:Q4,1.0
+224,WorldWired Tour,Metallica,2018-10-25,Philadelphia,Pennsylvania,18545.0,2163595.0,2018:Q4,1.0
+225,WorldWired Tour,Metallica,2018-10-27,Buffalo,New York,18542.0,2290542.0,2018:Q4,1.0
+226,WorldWired Tour,Metallica,2018-10-29,Albany,New York,15661.0,1936231.0,2018:Q4,1.0
+227,WorldWired Tour,Metallica,2018-11-26,Las Vegas,Nevada,19032.0,2551915.0,2018:Q4,1.0
+228,WorldWired Tour,Metallica,2018-11-28,Boise,Idaho,11868.0,1454270.0,2018:Q4,1.0
+229,WorldWired Tour,Metallica,2018-11-30,Salt Lake City,Utah,16215.0,2026905.0,2018:Q4,1.0
+230,WorldWired Tour,Metallica,2018-12-02,Spokane,Washington,12854.0,1597670.0,2018:Q4,1.0
+231,WorldWired Tour,Metallica,2018-12-05,Portland,Oregon,18273.0,2285680.0,2018:Q4,1.0
+232,WorldWired Tour,Metallica,2018-12-07,Sacramento,California,16591.0,2069225.0,2018:Q4,1.0
+233,WorldWired Tour,Metallica,2018-12-09,Fresno,California,14854.0,1855485.0,2018:Q4,1.0
+234,WorldWired Tour,Metallica,2019-01-18,Tulsa,Oklahoma,17612.0,2195900.0,2019:Q1,1.0
+235,WorldWired Tour,Metallica,2019-01-20,North Little Rock,Arkansas,17432.0,1679923.0,2019:Q1,1.0
+236,WorldWired Tour,Metallica,2019-01-22,Birmingham,Alabama,17462.0,1713460.0,2019:Q1,1.0
+237,WorldWired Tour,Metallica,2019-01-24,Nashville,Tennessee,16340.0,2213550.0,2019:Q1,1.0
+238,WorldWired Tour,Metallica,2019-01-28,Raleigh,North Carolina,20052.0,2409015.0,2019:Q1,1.0
+239,WorldWired Tour,Metallica,2019-01-30,Cincinnati,Ohio,16587.0,2060625.0,2019:Q1,1.0
+240,WorldWired Tour,Metallica,2019-02-01,Cleveland,Ohio,18515.0,2463702.0,2019:Q1,1.0
+241,WorldWired Tour,Metallica,2019-02-28,El Paso,Texas,12546.0,1558320.0,2019:Q1,1.0
+242,WorldWired Tour,Metallica,2019-03-02,Lubbock,Texas,14653.0,1813730.0,2019:Q1,1.0
+243,WorldWired Tour,Metallica,2019-03-04,Wichita,Kansas,15187.0,1648058.0,2019:Q1,1.0
+244,WorldWired Tour,Metallica,2019-03-06,Kansas City,Missouri,18535.0,2047000.0,2019:Q1,1.0
+245,WorldWired Tour,Metallica,2019-03-09,Louisville,Kentucky,21657.0,2531895.0,2019:Q1,1.0
+246,WorldWired Tour,Metallica,2019-03-11,Indianapolis,Indiana,17068.0,2129940.0,2019:Q1,1.0
+247,WorldWired Tour,Metallica,2019-03-13,Grand Rapids,Michigan,11692.0,1421960.0,2019:Q1,1.0
+248,No Filter Tour,The Rolling Stones,2019-06-21,Chicago,Illinois,49114.0,10870782.0,2019:Q2,1.0
+249,No Filter Tour,The Rolling Stones,2019-06-25,Chicago,Illinois,49114.0,10870782.0,2019:Q2,1.0
+250,No Filter Tour,The Rolling Stones,2019-07-03,Landover,Maryland,39082.0,9257202.0,2019:Q3,1.0
+251,No Filter Tour,The Rolling Stones,2019-07-07,Foxborough,Massachusetts,49669.0,11675732.0,2019:Q3,1.0
+252,No Filter Tour,The Rolling Stones,2019-07-15,New Orleans,Louisiana,35023.0,7163692.0,2019:Q3,1.0
+253,No Filter Tour,The Rolling Stones,2019-07-19,Jacksonville,Florida,50358.0,10198392.0,2019:Q3,1.0
+254,No Filter Tour,The Rolling Stones,2019-07-23,Philadelphia,Pennsylvania,51115.0,11741373.0,2019:Q3,1.0
+255,No Filter Tour,The Rolling Stones,2019-07-27,Houston,Texas,45958.0,11068397.0,2019:Q3,1.0
+256,No Filter Tour,The Rolling Stones,2019-08-01,East Rutherford,New Jersey,52482.0,12755219.0,2019:Q3,1.0
+257,No Filter Tour,The Rolling Stones,2019-08-05,East Rutherford,New Jersey,52482.0,12755219.0,2019:Q3,1.0
+258,No Filter Tour,The Rolling Stones,2019-08-10,Denver,Colorado,58846.0,13494183.0,2019:Q3,1.0
+259,No Filter Tour,The Rolling Stones,2019-08-14,Seattle,Washington,53363.0,11835818.0,2019:Q3,1.0
+260,No Filter Tour,The Rolling Stones,2019-08-18,Santa Clara,California,47578.0,11496719.0,2019:Q3,1.0
+261,No Filter Tour,The Rolling Stones,2019-08-22,Pasadena,California,56974.0,13113319.0,2019:Q3,1.0
+262,No Filter Tour,The Rolling Stones,2019-08-26,Glendale,Arizona,52726.0,9747170.0,2019:Q3,1.0
+263,No Filter Tour,The Rolling Stones,2019-08-30,Miami Gardens,Florida,40768.0,9762771.0,2019:Q3,1.0
+264,Beautiful Trauma World Tour,Pink,2018-03-01,Phoenix,Arizona,14181.0,1906176.0,2018:Q1,1.0
+265,Beautiful Trauma World Tour,Pink,2018-03-03,Wichita,Kansas,11894.0,1647788.0,2018:Q1,1.0
+266,Beautiful Trauma World Tour,Pink,2018-03-05,Tulsa,Oklahoma,14146.0,1734989.0,2018:Q1,1.0
+267,Beautiful Trauma World Tour,Pink,2018-03-06,Lincoln,Nebraska,13647.0,1755144.0,2018:Q1,1.0
+268,Beautiful Trauma World Tour,Pink,2018-03-09,Chicago,Illinois,15738.0,2127115.0,2018:Q1,1.0
+269,Beautiful Trauma World Tour,Pink,2018-03-10,Chicago,Illinois,15738.0,2127115.0,2018:Q1,1.0
+270,Beautiful Trauma World Tour,Pink,2018-03-12,Saint Paul,Minnesota,15710.0,2217347.0,2018:Q1,1.0
+271,Beautiful Trauma World Tour,Pink,2018-03-14,St. Louis,Missouri,15026.0,1852210.0,2018:Q1,1.0
+272,Beautiful Trauma World Tour,Pink,2018-03-15,Kansas City,Missouri,14068.0,1868282.0,2018:Q1,1.0
+273,Beautiful Trauma World Tour,Pink,2018-03-17,Indianapolis,Indiana,14544.0,1749814.0,2018:Q1,1.0
+274,Beautiful Trauma World Tour,Pink,2018-03-18,Grand Rapids,Michigan,11764.0,1623071.0,2018:Q1,1.0
+275,Beautiful Trauma World Tour,Pink,2018-03-27,Louisville,Kentucky,17445.0,2024356.0,2018:Q1,1.0
+276,Beautiful Trauma World Tour,Pink,2018-03-28,Cleveland,Ohio,15562.0,1912595.0,2018:Q1,1.0
+277,Beautiful Trauma World Tour,Pink,2018-04-04,New York City,New York,15143.0,2660280.0,2018:Q2,1.0
+278,Beautiful Trauma World Tour,Pink,2018-04-05,New York City,New York,15143.0,2660280.0,2018:Q2,1.0
+279,Beautiful Trauma World Tour,Pink,2018-04-07,Pittsburgh,Pennsylvania,16708.0,2210603.0,2018:Q2,1.0
+280,Beautiful Trauma World Tour,Pink,2018-04-09,Boston,Massachusetts,16202.0,2334320.0,2018:Q2,1.0
+281,Beautiful Trauma World Tour,Pink,2018-04-10,Boston,Massachusetts,16202.0,2334320.0,2018:Q2,1.0
+282,Beautiful Trauma World Tour,Pink,2018-04-13,Philadelphia,Pennsylvania,18191.0,2839340.0,2018:Q2,1.0
+283,Beautiful Trauma World Tour,Pink,2018-04-14,Newark,New Jersey,15687.0,2684824.0,2018:Q2,1.0
+284,Beautiful Trauma World Tour,Pink,2018-04-16,"Washington, D.C.",District of Columbia,16292.0,2249009.0,2018:Q2,1.0
+285,Beautiful Trauma World Tour,Pink,2018-04-17,"Washington, D.C.",District of Columbia,16292.0,2249009.0,2018:Q2,1.0
+286,Beautiful Trauma World Tour,Pink,2018-04-19,Charlottesville,Virginia,13014.0,1645760.0,2018:Q2,1.0
+287,Beautiful Trauma World Tour,Pink,2018-04-21,Atlanta,Georgia,12441.0,1661156.0,2018:Q2,1.0
+288,Beautiful Trauma World Tour,Pink,2018-04-24,Orlando,Florida,15109.0,2171487.0,2018:Q2,1.0
+289,Beautiful Trauma World Tour,Pink,2018-04-25,Sunrise,Florida,15999.0,2184919.0,2018:Q2,1.0
+290,Beautiful Trauma World Tour,Pink,2018-04-27,Houston,Texas,12808.0,1695602.0,2018:Q2,1.0
+291,Beautiful Trauma World Tour,Pink,2018-04-28,Houston,Texas,12808.0,1695602.0,2018:Q2,1.0
+292,Beautiful Trauma World Tour,Pink,2018-05-01,Dallas,Texas,14603.0,1821438.0,2018:Q2,1.0
+293,Beautiful Trauma World Tour,Pink,2018-05-02,Dallas,Texas,14603.0,1821438.0,2018:Q2,1.0
+294,Beautiful Trauma World Tour,Pink,2018-05-08,Denver,Colorado,17446.0,2160741.0,2018:Q2,1.0
+295,Beautiful Trauma World Tour,Pink,2018-05-09,Salt Lake City,Utah,14254.0,1947385.0,2018:Q2,1.0
+296,Beautiful Trauma World Tour,Pink,2018-05-13,Seattle,Washington,14027.0,2229945.0,2018:Q2,1.0
+297,Beautiful Trauma World Tour,Pink,2018-05-15,Portland,Oregon,15757.0,2114035.0,2018:Q2,1.0
+298,Beautiful Trauma World Tour,Pink,2018-05-18,Oakland,California,16298.0,2357778.0,2018:Q2,1.0
+299,Beautiful Trauma World Tour,Pink,2018-05-19,Oakland,California,16298.0,2357778.0,2018:Q2,1.0
+300,Beautiful Trauma World Tour,Pink,2018-05-22,Fresno,California,12721.0,1717899.0,2018:Q2,1.0
+301,Beautiful Trauma World Tour,Pink,2018-05-23,Ontario,California,9597.0,1457009.0,2018:Q2,1.0
+302,Beautiful Trauma World Tour,Pink,2018-05-25,Anaheim,California,16125.0,2014710.0,2018:Q2,1.0
+303,Beautiful Trauma World Tour,Pink,2018-05-26,Las Vegas,Nevada,17019.0,2656351.0,2018:Q2,1.0
+304,Beautiful Trauma World Tour,Pink,2018-05-28,San Diego,California,11872.0,1664733.0,2018:Q2,1.0
+305,Beautiful Trauma World Tour,Pink,2018-05-31,Los Angeles,California,17047.0,2358686.0,2018:Q2,1.0
+306,Beautiful Trauma World Tour,Pink,2018-06-01,Inglewood,California,14777.0,2307175.0,2018:Q2,1.0
+307,Beautiful Trauma World Tour,Pink,2019-03-01,Sunrise,Florida,14883.0,2463165.0,2019:Q1,1.0
+308,Beautiful Trauma World Tour,Pink,2019-03-03,Tampa,Florida,15068.0,2373771.0,2019:Q1,1.0
+309,Beautiful Trauma World Tour,Pink,2019-03-05,Jacksonville,Florida,11700.0,1915530.0,2019:Q1,1.0
+310,Beautiful Trauma World Tour,Pink,2019-03-07,Columbia,South Carolina,13481.0,1722813.0,2019:Q1,1.0
+311,Beautiful Trauma World Tour,Pink,2019-03-09,Charlotte,North Carolina,15596.0,2578534.0,2019:Q1,1.0
+312,Beautiful Trauma World Tour,Pink,2019-03-10,Nashville,Tennessee,14336.0,2326690.0,2019:Q1,1.0
+313,Beautiful Trauma World Tour,Pink,2019-03-12,Atlanta,Georgia,11472.0,1586831.0,2019:Q1,1.0
+314,Beautiful Trauma World Tour,Pink,2019-03-14,Birmingham,Alabama,13959.0,1487637.0,2019:Q1,1.0
+315,Beautiful Trauma World Tour,Pink,2019-03-16,Bossier City,Louisiana,,,2019:Q1,1.0
+316,Beautiful Trauma World Tour,Pink,2019-03-17,New Orleans,Louisiana,14500.0,2215600.0,2019:Q1,1.0
+317,Beautiful Trauma World Tour,Pink,2019-03-19,Houston,Texas,,,2019:Q1,1.0
+318,Beautiful Trauma World Tour,Pink,2019-03-21,San Antonio,Texas,15651.0,2115377.0,2019:Q1,1.0
+319,Beautiful Trauma World Tour,Pink,2019-03-23,Oklahoma City,Oklahoma,13820.0,2049271.0,2019:Q1,1.0
+320,Beautiful Trauma World Tour,Pink,2019-03-24,Dallas,Texas,14658.0,2067277.0,2019:Q1,1.0
+321,Beautiful Trauma World Tour,Pink,2019-03-30,Glendale,Arizona,13737.0,2363364.0,2019:Q1,1.0
+322,Beautiful Trauma World Tour,Pink,2019-04-01,Denver,Colorado,14548.0,2117678.0,2019:Q2,1.0
+323,Beautiful Trauma World Tour,Pink,2019-04-03,Salt Lake City,Utah,13586.0,1889389.0,2019:Q2,1.0
+324,Beautiful Trauma World Tour,Pink,2019-04-08,Portland,Oregon,14942.0,2159245.0,2019:Q2,1.0
+325,Beautiful Trauma World Tour,Pink,2019-04-10,Sacramento,California,14881.0,2628946.0,2019:Q2,1.0
+326,Beautiful Trauma World Tour,Pink,2019-04-12,Las Vegas,Nevada,16130.0,2340138.0,2019:Q2,1.0
+327,Beautiful Trauma World Tour,Pink,2019-04-13,Anaheim,California,12832.0,1925556.0,2019:Q2,1.0
+328,Beautiful Trauma World Tour,Pink,2019-04-15,Los Angeles,California,13699.0,1336647.0,2019:Q2,1.0
+329,Beautiful Trauma World Tour,Pink,2019-04-17,San Jose,California,14055.0,2125545.0,2019:Q2,1.0
+330,Beautiful Trauma World Tour,Pink,2019-04-19,Inglewood,California,14354.0,2074363.0,2019:Q2,1.0
+331,Beautiful Trauma World Tour,Pink,2019-04-26,Detroit,Michigan,15250.0,2297321.0,2019:Q2,1.0
+332,Beautiful Trauma World Tour,Pink,2019-04-27,Detroit,Michigan,15250.0,2297321.0,2019:Q2,1.0
+333,Beautiful Trauma World Tour,Pink,2019-04-30,Indianapolis,Indiana,14444.0,2011671.0,2019:Q2,1.0
+334,Beautiful Trauma World Tour,Pink,2019-05-02,Milwaukee,Wisconsin,13331.0,2336580.0,2019:Q2,1.0
+335,Beautiful Trauma World Tour,Pink,2019-05-04,Fargo,North Dakota,22164.0,2927135.0,2019:Q2,1.0
+336,Beautiful Trauma World Tour,Pink,2019-05-05,Saint Paul,Minnesota,15820.0,2735448.0,2019:Q2,1.0
+337,Beautiful Trauma World Tour,Pink,2019-05-07,Omaha,Nebraska,15050.0,2187858.0,2019:Q2,1.0
+338,Beautiful Trauma World Tour,Pink,2019-05-09,Lexington,Kentucky,17256.0,1771383.0,2019:Q2,1.0
+339,Beautiful Trauma World Tour,Pink,2019-05-11,Columbus,Ohio,14907.0,2281760.0,2019:Q2,1.0
+340,Beautiful Trauma World Tour,Pink,2019-05-21,New York City,New York,14999.0,2763507.0,2019:Q2,1.0
+341,Beautiful Trauma World Tour,Pink,2019-05-22,New York City,New York,14999.0,2763507.0,2019:Q2,1.0
+342,Beautiful Trauma World Tour,Pink,2019-08-16,Uniondale,New York,12339.0,2092479.0,2019:Q3,1.0
+343,Beautiful Trauma World Tour,Pink,2019-11-02,Austin,Texas,,,2019:Q4,1.0
+344,The Joshua Tree Tours 2017 and 2019,U2,2017-05-14,Seattle,Washington,57009.0,6249670.0,2017:Q2,1.0
+345,The Joshua Tree Tours 2017 and 2020,U2,2017-05-17,Santa Clara,California,50072.0,6268805.0,2017:Q2,1.0
+346,The Joshua Tree Tours 2017 and 2021,U2,2017-05-20,Pasadena,California,61582.0,7892283.0,2017:Q2,1.0
+347,The Joshua Tree Tours 2017 and 2022,U2,2017-05-21,Pasadena,California,61582.0,7892283.0,2017:Q2,1.0
+348,The Joshua Tree Tours 2017 and 2023,U2,2017-05-24,Houston,Texas,47669.0,5889005.0,2017:Q2,1.0
+349,The Joshua Tree Tours 2017 and 2024,U2,2017-05-26,Arlington,Texas,49807.0,6044330.0,2017:Q2,1.0
+350,The Joshua Tree Tours 2017 and 2025,U2,2017-06-03,Chicago,Illinois,52539.0,6717963.0,2017:Q2,1.0
+351,The Joshua Tree Tours 2017 and 2026,U2,2017-06-04,Chicago,Illinois,52539.0,6717963.0,2017:Q2,1.0
+352,The Joshua Tree Tours 2017 and 2027,U2,2017-06-07,Pittsburgh,Pennsylvania,41413.0,4273920.0,2017:Q2,1.0
+353,The Joshua Tree Tours 2017 and 2028,U2,2017-06-09,Manchester,Tennessee,,,2017:Q2,1.0
+354,The Joshua Tree Tours 2017 and 2029,U2,2017-06-11,Miami Gardens,Florida,48494.0,5923665.0,2017:Q2,1.0
+355,The Joshua Tree Tours 2017 and 2030,U2,2017-06-14,Tampa,Florida,52958.0,6125415.0,2017:Q2,1.0
+356,The Joshua Tree Tours 2017 and 2031,U2,2017-06-16,Louisville,Kentucky,45491.0,4810535.0,2017:Q2,1.0
+357,The Joshua Tree Tours 2017 and 2032,U2,2017-06-18,Philadelphia,Pennsylvania,56570.0,6259880.0,2017:Q2,1.0
+358,The Joshua Tree Tours 2017 and 2033,U2,2017-06-20,Landover,Maryland,49827.0,6286385.0,2017:Q2,1.0
+359,The Joshua Tree Tours 2017 and 2034,U2,2017-06-25,Foxborough,Massachusetts,55231.0,6881340.0,2017:Q2,1.0
+360,The Joshua Tree Tours 2017 and 2035,U2,2017-06-28,East Rutherford,New Jersey,55321.0,7284403.0,2017:Q2,1.0
+361,The Joshua Tree Tours 2017 and 2036,U2,2017-06-29,East Rutherford,New Jersey,55321.0,7284403.0,2017:Q2,1.0
+362,The Joshua Tree Tours 2017 and 2037,U2,2017-07-01,Cleveland,Ohio,51849.0,5582965.0,2017:Q3,1.0
+363,The Joshua Tree Tours 2017 and 2038,U2,2017-09-03,Detroit,Michigan,42905.0,4936605.0,2017:Q3,1.0
+364,The Joshua Tree Tours 2017 and 2039,U2,2017-09-05,Orchard Park,New York,41106.0,4269245.0,2017:Q3,1.0
+365,The Joshua Tree Tours 2017 and 2040,U2,2017-09-08,Minneapolis,Minnesota,43386.0,4698100.0,2017:Q3,1.0
+366,The Joshua Tree Tours 2017 and 2041,U2,2017-09-10,Indianapolis,Indiana,51731.0,5970055.0,2017:Q3,1.0
+367,The Joshua Tree Tours 2017 and 2042,U2,2017-09-12,Kansas City,Missouri,39593.0,4200160.0,2017:Q3,1.0
+368,The Joshua Tree Tours 2017 and 2043,U2,2017-09-14,New Orleans,Louisiana,34536.0,3873405.0,2017:Q3,1.0
+369,The Joshua Tree Tours 2017 and 2044,U2,2017-09-19,Glendale,Arizona,42814.0,4169215.0,2017:Q3,1.0
+370,The Joshua Tree Tours 2017 and 2045,U2,2017-09-22,San Diego,California,54221.0,6469130.0,2017:Q3,1.0
+371,24K Magic World Tour,Bruno Mars,2017-07-15,Las Vegas,Nevada,16556.0,1947649.0,2017:Q3,1.0
+372,24K Magic World Tour,Bruno Mars,2017-07-18,Sacramento,California,15170.0,1586433.0,2017:Q3,1.0
+373,24K Magic World Tour,Bruno Mars,2017-07-20,San Jose,California,14222.0,1836516.0,2017:Q3,1.0
+374,24K Magic World Tour,Bruno Mars,2017-07-21,San Jose,California,14222.0,1836516.0,2017:Q3,1.0
+375,24K Magic World Tour,Bruno Mars,2017-07-23,Portland,Oregon,15417.0,1655665.0,2017:Q3,1.0
+376,24K Magic World Tour,Bruno Mars,2017-07-24,Tacoma,Washington,19454.0,1746589.0,2017:Q3,1.0
+377,24K Magic World Tour,Bruno Mars,2017-08-04,Fargo,North Dakota,18489.0,1850542.0,2017:Q3,1.0
+378,24K Magic World Tour,Bruno Mars,2017-08-05,Saint Paul,Minnesota,16350.0,1905256.0,2017:Q3,1.0
+379,24K Magic World Tour,Bruno Mars,2017-08-07,Lincoln,Nebraska,14105.0,1517410.0,2017:Q3,1.0
+380,24K Magic World Tour,Bruno Mars,2017-08-09,Kansas City,Missouri,15154.0,1660106.0,2017:Q3,1.0
+381,24K Magic World Tour,Bruno Mars,2017-08-12,Auburn Hills,Michigan,16013.0,1936194.0,2017:Q3,1.0
+382,24K Magic World Tour,Bruno Mars,2017-08-13,Indianapolis,Indiana,15112.0,1635885.0,2017:Q3,1.0
+383,24K Magic World Tour,Bruno Mars,2017-08-15,Cleveland,Ohio,17103.0,1827568.0,2017:Q3,1.0
+384,24K Magic World Tour,Bruno Mars,2017-08-16,Chicago,Illinois,15981.0,2115983.0,2017:Q3,1.0
+385,24K Magic World Tour,Bruno Mars,2017-08-18,Chicago,Illinois,15981.0,2115983.0,2017:Q3,1.0
+386,24K Magic World Tour,Bruno Mars,2017-08-19,Chicago,Illinois,15981.0,2115983.0,2017:Q3,1.0
+387,24K Magic World Tour,Bruno Mars,2017-08-22,Pittsburgh,Pennsylvania,15776.0,1761947.0,2017:Q3,1.0
+388,24K Magic World Tour,Bruno Mars,2017-09-14,Charlotte,North Carolina,15931.0,1766253.0,2017:Q3,1.0
+389,24K Magic World Tour,Bruno Mars,2017-09-16,Atlanta,Georgia,,,2017:Q3,1.0
+390,24K Magic World Tour,Bruno Mars,2017-09-17,Memphis,Tennessee,14815.0,1597428.0,2017:Q3,1.0
+391,24K Magic World Tour,Bruno Mars,2017-09-19,Louisville,Kentucky,18176.0,1911793.0,2017:Q3,1.0
+392,24K Magic World Tour,Bruno Mars,2017-09-20,Columbus,Ohio,15288.0,1718528.0,2017:Q3,1.0
+393,24K Magic World Tour,Bruno Mars,2017-09-22,New York City,New York,15659.0,2060099.0,2017:Q3,1.0
+394,24K Magic World Tour,Bruno Mars,2017-09-23,New York City,New York,15659.0,2060099.0,2017:Q3,1.0
+395,24K Magic World Tour,Bruno Mars,2017-09-26,Newark,New Jersey,14625.0,1820526.0,2017:Q3,1.0
+396,24K Magic World Tour,Bruno Mars,2017-09-27,Buffalo,New York,15984.0,1684265.0,2017:Q3,1.0
+397,24K Magic World Tour,Bruno Mars,2017-09-29,"Washington, D.C.",District of Columbia,15924.0,2090120.0,2017:Q3,1.0
+398,24K Magic World Tour,Bruno Mars,2017-09-30,"Washington, D.C.",District of Columbia,15924.0,2090120.0,2017:Q3,1.0
+399,24K Magic World Tour,Bruno Mars,2017-10-04,Brooklyn,New York,15370.0,1898099.0,2017:Q4,1.0
+400,24K Magic World Tour,Bruno Mars,2017-10-05,Uniondale,New York,13052.0,1626154.0,2017:Q4,1.0
+401,24K Magic World Tour,Bruno Mars,2017-10-07,Boston,Massachusetts,14420.0,1847904.0,2017:Q4,1.0
+402,24K Magic World Tour,Bruno Mars,2017-10-08,Boston,Massachusetts,14420.0,1847904.0,2017:Q4,1.0
+403,24K Magic World Tour,Bruno Mars,2017-10-10,Philadelphia,Pennsylvania,16555.0,2086312.0,2017:Q4,1.0
+404,24K Magic World Tour,Bruno Mars,2017-10-12,Raleigh,North Carolina,15541.0,1819506.0,2017:Q4,1.0
+405,24K Magic World Tour,Bruno Mars,2017-10-14,Orlando,Florida,14067.0,1532415.0,2017:Q4,1.0
+406,24K Magic World Tour,Bruno Mars,2017-10-15,Sunrise,Florida,15012.0,1941593.0,2017:Q4,1.0
+407,24K Magic World Tour,Bruno Mars,2017-10-18,Miami,Florida,15190.0,2036300.0,2017:Q4,1.0
+408,24K Magic World Tour,Bruno Mars,2017-10-19,Tampa,Florida,15494.0,1737059.0,2017:Q4,1.0
+409,24K Magic World Tour,Bruno Mars,2017-10-21,New Orleans,Louisiana,15056.0,1656475.0,2017:Q4,1.0
+410,24K Magic World Tour,Bruno Mars,2017-10-22,North Little Rock,Arkansas,15806.0,1573424.0,2017:Q4,1.0
+411,24K Magic World Tour,Bruno Mars,2017-10-24,Houston,Texas,13529.0,1805759.0,2017:Q4,1.0
+412,24K Magic World Tour,Bruno Mars,2017-10-25,San Antonio,Texas,15710.0,1751972.0,2017:Q4,1.0
+413,24K Magic World Tour,Bruno Mars,2017-10-27,Dallas,Texas,14879.0,1744937.0,2017:Q4,1.0
+414,24K Magic World Tour,Bruno Mars,2017-11-02,Fresno,California,12730.0,1427143.0,2017:Q4,1.0
+415,24K Magic World Tour,Bruno Mars,2017-11-03,Oakland,California,15884.0,1981559.0,2017:Q4,1.0
+416,24K Magic World Tour,Bruno Mars,2017-11-05,Phoenix,Arizona,14764.0,1651992.0,2017:Q4,1.0
+417,24K Magic World Tour,Bruno Mars,2017-11-07,Inglewood,California,15473.0,2105004.0,2017:Q4,1.0
+418,24K Magic World Tour,Bruno Mars,2017-11-08,Inglewood,California,15473.0,2105004.0,2017:Q4,1.0
+419,24K Magic World Tour,Bruno Mars,2017-11-10,Inglewood,California,15473.0,2105004.0,2017:Q4,1.0
+420,24K Magic World Tour,Bruno Mars,2017-11-11,Inglewood,California,15473.0,2105004.0,2017:Q4,1.0
+421,24K Magic World Tour,Bruno Mars,2018-05-27,Napa,California,,,2018:Q2,1.0
+422,24K Magic World Tour,Bruno Mars,2018-08-03,Chicago,Illinois,,,2018:Q3,1.0
+423,24K Magic World Tour,Bruno Mars,2018-09-07,Denver,Colorado,14195.0,1891639.0,2018:Q3,1.0
+424,24K Magic World Tour,Bruno Mars,2018-09-08,Denver,Colorado,14195.0,1891639.0,2018:Q3,1.0
+425,24K Magic World Tour,Bruno Mars,2018-09-11,Saint Paul,Minnesota,14304.0,1879454.0,2018:Q3,1.0
+426,24K Magic World Tour,Bruno Mars,2018-09-12,Saint Paul,Minnesota,14304.0,1879454.0,2018:Q3,1.0
+427,24K Magic World Tour,Bruno Mars,2018-09-15,Detroit,Michigan,14638.0,1984887.0,2018:Q3,1.0
+428,24K Magic World Tour,Bruno Mars,2018-09-16,Detroit,Michigan,14638.0,1984887.0,2018:Q3,1.0
+429,24K Magic World Tour,Bruno Mars,2018-09-19,Philadelphia,Pennsylvania,13940.0,1892504.0,2018:Q3,1.0
+430,24K Magic World Tour,Bruno Mars,2018-09-20,Philadelphia,Pennsylvania,13940.0,1892504.0,2018:Q3,1.0
+431,24K Magic World Tour,Bruno Mars,2018-09-27,Boston,Massachusetts,13342.0,2063375.0,2018:Q3,1.0
+432,24K Magic World Tour,Bruno Mars,2018-09-28,Boston,Massachusetts,13342.0,2063375.0,2018:Q3,1.0
+433,24K Magic World Tour,Bruno Mars,2018-10-01,Newark,New Jersey,12451.0,2036296.0,2018:Q4,1.0
+434,24K Magic World Tour,Bruno Mars,2018-10-02,Newark,New Jersey,12451.0,2036296.0,2018:Q4,1.0
+435,24K Magic World Tour,Bruno Mars,2018-10-04,Brooklyn,New York,14983.0,2569081.0,2018:Q4,1.0
+436,24K Magic World Tour,Bruno Mars,2018-10-05,Brooklyn,New York,14983.0,2569081.0,2018:Q4,1.0
+437,24K Magic World Tour,Bruno Mars,2018-10-07,Nashville,Tennessee,14622.0,2183676.0,2018:Q4,1.0
+438,24K Magic World Tour,Bruno Mars,2018-10-08,Nashville,Tennessee,14622.0,2183676.0,2018:Q4,1.0
+439,24K Magic World Tour,Bruno Mars,2018-10-11,Tulsa,Oklahoma,13082.0,1772206.0,2018:Q4,1.0
+440,24K Magic World Tour,Bruno Mars,2018-10-12,Tulsa,Oklahoma,13082.0,1772206.0,2018:Q4,1.0
+441,24K Magic World Tour,Bruno Mars,2018-10-14,Dallas,Texas,13967.0,2090465.0,2018:Q4,1.0
+442,24K Magic World Tour,Bruno Mars,2018-10-15,Dallas,Texas,13967.0,2090465.0,2018:Q4,1.0
+443,24K Magic World Tour,Bruno Mars,2018-10-20,Austin,Texas,,,2018:Q4,1.0
+444,24K Magic World Tour,Bruno Mars,2018-10-23,Los Angeles,California,15331.0,2278303.0,2018:Q4,1.0
+445,24K Magic World Tour,Bruno Mars,2018-10-24,Los Angeles,California,15331.0,2278303.0,2018:Q4,1.0
+446,24K Magic World Tour,Bruno Mars,2018-10-26,Los Angeles,California,15331.0,2278303.0,2018:Q4,1.0
+447,24K Magic World Tour,Bruno Mars,2018-10-27,Los Angeles,California,15331.0,2278303.0,2018:Q4,1.0
+448,24K Magic World Tour,Bruno Mars,2018-11-08,Honolulu,Hawaii,37917.0,4131527.0,2018:Q4,1.0
+449,24K Magic World Tour,Bruno Mars,2018-11-10,Honolulu,Hawaii,37917.0,4131527.0,2018:Q4,1.0
+450,24K Magic World Tour,Bruno Mars,2018-11-11,Honolulu,Hawaii,37917.0,4131527.0,2018:Q4,1.0
+451,24K Magic World Tour,Bruno Mars,2018-12-30,Las Vegas,Nevada,15121.0,2929784.0,2018:Q4,1.0
+452,24K Magic World Tour,Bruno Mars,2018-12-31,Las Vegas,Nevada,15121.0,2929784.0,2018:Q4,1.0
